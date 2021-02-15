@@ -1,3 +1,5 @@
+\# Block list generated on:  Mon 15 Feb 2021 12:51:43 PM PST
+\# Itens in this list: 459
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com

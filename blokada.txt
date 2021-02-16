@@ -1,5 +1,5 @@
-# Block list generated on: Mon 15 Feb 2021 12:59:17 PM PST
-# Itens in this list: 463
+# Block list generated on: Tue 16 Feb 2021 03:45:03 AM PST
+# Items in this list: 465
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -87,6 +87,7 @@
 0.0.0.0 bidder.criteo.com
 \# Block list generated on:  Mon 15 Feb 2021 12:51:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:52:43 PM PST
+# Block list generated on: Mon 15 Feb 2021 12:59:17 PM PST
 0.0.0.0 blokada.org
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 b.scorecardresearch.com
@@ -246,6 +247,7 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 \# Itens in this list: 459
 # Itens in this list: 461
+# Itens in this list: 463
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.sentry-cdn.com

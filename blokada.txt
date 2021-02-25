@@ -1,5 +1,5 @@
-# Block list generated on: Wed 24 Feb 2021 03:45:03 AM PST
-# Items in this list: 483
+# Block list generated on: Thu 25 Feb 2021 03:45:03 AM PST
+# Items in this list: 485
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -97,6 +97,7 @@
 # Block list generated on: Tue 16 Feb 2021 03:45:03 AM PST
 # Block list generated on: Tue 23 Feb 2021 03:45:03 AM PST
 # Block list generated on: Wed 17 Feb 2021 03:45:03 AM PST
+# Block list generated on: Wed 24 Feb 2021 03:45:03 AM PST
 0.0.0.0 blokada.org
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 b.scorecardresearch.com
@@ -262,6 +263,7 @@
 # Items in this list: 477
 # Items in this list: 479
 # Items in this list: 481
+# Items in this list: 483
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463

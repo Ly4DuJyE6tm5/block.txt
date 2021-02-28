@@ -1,5 +1,5 @@
-# Block list generated on: Sat 27 Feb 2021 03:45:03 AM PST
-# Items in this list: 489
+# Block list generated on: Sun 28 Feb 2021 03:45:03 AM PST
+# Items in this list: 493
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -44,6 +44,7 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.apptentive.com
+0.0.0.0 api.blocka.net
 0.0.0.0 api.branch.io
 0.0.0.0 api.facebook.com
 0.0.0.0 api.instabug.com
@@ -76,6 +77,7 @@
 0.0.0.0 ats.rlcdn.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
+0.0.0.0 bam.nr-data.net
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbstatic.pcmag.com
@@ -93,6 +95,7 @@
 # Block list generated on: Mon 15 Feb 2021 12:59:17 PM PST
 # Block list generated on: Mon 22 Feb 2021 03:45:01 AM PST
 # Block list generated on: Sat 20 Feb 2021 03:45:03 AM PST
+# Block list generated on: Sat 27 Feb 2021 03:45:03 AM PST
 # Block list generated on: Sun 21 Feb 2021 03:45:04 AM PST
 # Block list generated on: Thu 18 Feb 2021 03:45:03 AM PST
 # Block list generated on: Thu 25 Feb 2021 03:45:03 AM PST
@@ -268,6 +271,7 @@
 # Items in this list: 483
 # Items in this list: 485
 # Items in this list: 487
+# Items in this list: 489
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463

@@ -1,5 +1,5 @@
-# Block list generated on: Mon 08 Mar 2021 03:45:01 AM PST
-# Items in this list: 509
+# Block list generated on: Tue 09 Mar 2021 03:45:03 AM PST
+# Items in this list: 513
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -92,6 +92,7 @@
 # Block list generated on: Fri 19 Feb 2021 03:45:03 AM PST
 # Block list generated on: Fri 26 Feb 2021 03:45:04 AM PST
 # Block list generated on: Mon 01 Mar 2021 03:45:03 AM PST
+# Block list generated on: Mon 08 Mar 2021 03:45:01 AM PST
 \# Block list generated on:  Mon 15 Feb 2021 12:51:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:52:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:59:17 PM PST
@@ -178,6 +179,7 @@
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collect.tealiumiq.com
+0.0.0.0 combine.urbanairship.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 config.uca.cloud.unity3d.com
@@ -288,6 +290,7 @@
 # Items in this list: 503
 # Items in this list: 505
 # Items in this list: 507
+# Items in this list: 509
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -322,6 +325,7 @@
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.twitter.com
 0.0.0.0 motorsport.amp.permutive.com
+0.0.0.0 mps.cnbc.com
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 m.quantcount.com
 0.0.0.0 mrb.upapi.net

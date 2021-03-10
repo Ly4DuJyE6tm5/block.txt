@@ -1,5 +1,5 @@
-# Block list generated on: Tue 09 Mar 2021 03:45:03 AM PST
-# Items in this list: 513
+# Block list generated on: Wed 10 Mar 2021 03:45:03 AM PST
+# Items in this list: 517
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -107,6 +107,7 @@
 # Block list generated on: Thu 18 Feb 2021 03:45:03 AM PST
 # Block list generated on: Thu 25 Feb 2021 03:45:03 AM PST
 # Block list generated on: Tue 02 Mar 2021 03:45:03 AM PST
+# Block list generated on: Tue 09 Mar 2021 03:45:03 AM PST
 # Block list generated on: Tue 16 Feb 2021 03:45:03 AM PST
 # Block list generated on: Tue 23 Feb 2021 03:45:03 AM PST
 # Block list generated on: Wed 03 Mar 2021 03:45:04 AM PST
@@ -216,6 +217,7 @@
 0.0.0.0 edge.quantserve.com
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 e.serverbid.com
 0.0.0.0 etahub.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eventbus.intuit.com
@@ -291,6 +293,7 @@
 # Items in this list: 505
 # Items in this list: 507
 # Items in this list: 509
+# Items in this list: 513
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -348,6 +351,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pbs.twimg.com
+0.0.0.0 p.datadoghq.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 ping.chartbeat.net

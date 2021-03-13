@@ -1,5 +1,5 @@
-# Block list generated on: Fri 12 Mar 2021 03:45:04 AM PST
-# Items in this list: 521
+# Block list generated on: Sat 13 Mar 2021 03:45:03 AM PST
+# Items in this list: 523
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -89,6 +89,7 @@
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 bidder.criteo.com
 # Block list generated on: Fri 05 Mar 2021 03:45:01 AM PST
+# Block list generated on: Fri 12 Mar 2021 03:45:04 AM PST
 # Block list generated on: Fri 19 Feb 2021 03:45:03 AM PST
 # Block list generated on: Fri 26 Feb 2021 03:45:04 AM PST
 # Block list generated on: Mon 01 Mar 2021 03:45:03 AM PST
@@ -298,6 +299,7 @@
 # Items in this list: 513
 # Items in this list: 517
 # Items in this list: 519
+# Items in this list: 521
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463

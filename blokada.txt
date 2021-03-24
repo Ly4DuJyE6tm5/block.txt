@@ -1,5 +1,5 @@
-# Block list generated on: Tue 23 Mar 2021 03:45:01 AM PDT
-# Items in this list: 550
+# Block list generated on: Wed 24 Mar 2021 03:45:03 AM PDT
+# Items in this list: 555
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -11,6 +11,7 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads.blogherads.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver-us.adtech.advertising.com
@@ -122,6 +123,7 @@
 # Block list generated on: Tue 16 Feb 2021 03:45:03 AM PST
 # Block list generated on: Tue 16 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Tue 23 Feb 2021 03:45:03 AM PST
+# Block list generated on: Tue 23 Mar 2021 03:45:01 AM PDT
 # Block list generated on: Wed 03 Mar 2021 03:45:04 AM PST
 # Block list generated on: Wed 10 Mar 2021 03:45:03 AM PST
 # Block list generated on: Wed 17 Feb 2021 03:45:03 AM PST
@@ -251,6 +253,7 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fonts.gstatic.com
+0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 frog.wix.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g2.gumgum.com
@@ -323,6 +326,7 @@
 # Items in this list: 542
 # Items in this list: 545
 # Items in this list: 548
+# Items in this list: 550
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -482,6 +486,7 @@
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s.youtube.com
+0.0.0.0 tag.1rx.io
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.crsspxl.com

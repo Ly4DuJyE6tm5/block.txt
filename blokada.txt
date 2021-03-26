@@ -1,5 +1,5 @@
-# Block list generated on: Thu 25 Mar 2021 03:45:03 AM PDT
-# Items in this list: 557
+# Block list generated on: Fri 26 Mar 2021 03:45:04 AM PDT
+# Items in this list: 560
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -118,6 +118,7 @@
 # Block list generated on: Thu 18 Feb 2021 03:45:03 AM PST
 # Block list generated on: Thu 18 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Thu 25 Feb 2021 03:45:03 AM PST
+# Block list generated on: Thu 25 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Tue 02 Mar 2021 03:45:03 AM PST
 # Block list generated on: Tue 09 Mar 2021 03:45:03 AM PST
 # Block list generated on: Tue 16 Feb 2021 03:45:03 AM PST
@@ -329,6 +330,7 @@
 # Items in this list: 548
 # Items in this list: 550
 # Items in this list: 555
+# Items in this list: 557
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -391,6 +393,7 @@
 0.0.0.0 phar.gu-web.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pinterest.com
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel-c2s.sitescout.com

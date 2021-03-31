@@ -1,5 +1,5 @@
-# Block list generated on: Tue 30 Mar 2021 03:45:02 AM PDT
-# Items in this list: 570
+# Block list generated on: Wed 31 Mar 2021 03:45:04 AM PDT
+# Items in this list: 575
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -129,6 +129,7 @@
 # Block list generated on: Tue 16 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Tue 23 Feb 2021 03:45:03 AM PST
 # Block list generated on: Tue 23 Mar 2021 03:45:01 AM PDT
+# Block list generated on: Tue 30 Mar 2021 03:45:02 AM PDT
 # Block list generated on: Wed 03 Mar 2021 03:45:04 AM PST
 # Block list generated on: Wed 10 Mar 2021 03:45:03 AM PST
 # Block list generated on: Wed 17 Feb 2021 03:45:03 AM PST
@@ -161,6 +162,7 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.ccgateway.net
+0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cxense.com
@@ -341,6 +343,7 @@
 # Items in this list: 562
 # Items in this list: 564
 # Items in this list: 568
+# Items in this list: 570
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -412,6 +415,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.twitter.com
+0.0.0.0 pmc.amp.permutive.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 prebid.adnxs.com
@@ -489,6 +493,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.pcmag.com
 0.0.0.0 static.scroll.com
+0.0.0.0 staticw2.yotpo.com
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 static.yieldmo.com
 0.0.0.0 stats.appsflyer.com

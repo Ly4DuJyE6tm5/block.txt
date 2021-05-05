@@ -1,5 +1,5 @@
-# Block list generated on: Tue 04 May 2021 03:45:01 AM PDT
-# Items in this list: 667
+# Block list generated on: Wed 05 May 2021 03:45:03 AM PDT
+# Items in this list: 682
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
@@ -55,6 +55,7 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api.facebook.com
 0.0.0.0 api.instabug.com
+0.0.0.0 api.instagram.com
 0.0.0.0 api.iterable.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.pinterest.com
@@ -155,6 +156,7 @@
 # Block list generated on: Thu 25 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Thu 29 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Tue 02 Mar 2021 03:45:03 AM PST
+# Block list generated on: Tue 04 May 2021 03:45:01 AM PDT
 # Block list generated on: Tue 06 Apr 2021 03:45:08 AM PDT
 # Block list generated on: Tue 09 Mar 2021 03:45:03 AM PST
 # Block list generated on: Tue 13 Apr 2021 03:45:03 AM PDT
@@ -181,6 +183,7 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 btloader.com
+0.0.0.0 businessinsider.amp.permutive.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 c2.taboola.com
 0.0.0.0 cache.addthiscdn.com
@@ -277,11 +280,13 @@
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 dev.appboy.com
 0.0.0.0 device-api.urbanairship.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.google
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dsum-sec.casalemedia.com
+0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 embed.sendtonews.com
@@ -315,6 +320,7 @@
 0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.yahoo.com
 0.0.0.0 get.s-onetag.com
+0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googletagservices.com
@@ -426,11 +432,13 @@
 # Items in this list: 661
 # Items in this list: 663
 # Items in this list: 665
+# Items in this list: 667
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
 0.0.0.0 itunes.apple.com
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 js.agkn.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.sentry-cdn.com
@@ -443,6 +451,7 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 m1.nsimg.net
 0.0.0.0 m2d.m2.ai
 0.0.0.0 m.addthis.com
 0.0.0.0 m.addthisedge.com
@@ -456,6 +465,7 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 mid.rkdms.com
+0.0.0.0 minecraftprod.rtep.msgamestudios.com
 0.0.0.0 ml314.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -499,11 +509,14 @@
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel-c2s.sitescout.com
 0.0.0.0 pixel.quantserve.com
+0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.twitter.com
+0.0.0.0 player.stats.live-video.net
 0.0.0.0 pmc.amp.permutive.com
+0.0.0.0 powerad.ai
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 prebid.adnxs.com
@@ -544,6 +557,7 @@
 0.0.0.0 scdn.cxense.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 scripts.mediavine.com
+0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 sdc.cnn.com
 0.0.0.0 sdk.iad-03.braze.com
@@ -629,6 +643,7 @@
 0.0.0.0 use.typekit.net
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 video.twimg.com
+0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid.springserve.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 vrt.outbrain.com

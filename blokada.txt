@@ -1,11 +1,12 @@
-# Block list generated on: Sat 08 May 2021 03:45:01 AM PDT
-# Items in this list: 688
+# Block list generated on: Sun 09 May 2021 03:45:04 AM PDT
+# Items in this list: 693
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 abcnews.tt.omtrdc.net
 0.0.0.0 abs.twimg.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad-delivery.net
@@ -126,6 +127,7 @@
 # Block list generated on: Sat 01 May 2021 03:45:03 AM PDT
 # Block list generated on: Sat 03 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Sat 06 Mar 2021 03:45:03 AM PST
+# Block list generated on: Sat 08 May 2021 03:45:01 AM PDT
 # Block list generated on: Sat 10 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Sat 13 Mar 2021 03:45:03 AM PST
 # Block list generated on: Sat 17 Apr 2021 03:45:04 AM PDT
@@ -439,6 +441,7 @@
 # Items in this list: 682
 # Items in this list: 684
 # Items in this list: 686
+# Items in this list: 688
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -446,6 +449,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 jsc.mgid.com
+0.0.0.0 js.hs-scripts.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 js.taplytics.com
@@ -636,6 +640,7 @@
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trends.revcontent.com
+0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 trinity.platform.intuit.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.vidible.tv

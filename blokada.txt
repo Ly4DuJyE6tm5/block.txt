@@ -1,5 +1,5 @@
-# Block list generated on: Tue 11 May 2021 03:45:01 AM PDT
-# Items in this list: 699
+# Block list generated on: Wed 12 May 2021 03:45:03 AM PDT
+# Items in this list: 704
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -13,6 +13,7 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads-api.twitter.com
@@ -166,6 +167,7 @@
 # Block list generated on: Tue 04 May 2021 03:45:01 AM PDT
 # Block list generated on: Tue 06 Apr 2021 03:45:08 AM PDT
 # Block list generated on: Tue 09 Mar 2021 03:45:03 AM PST
+# Block list generated on: Tue 11 May 2021 03:45:01 AM PDT
 # Block list generated on: Tue 13 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Tue 16 Feb 2021 03:45:03 AM PST
 # Block list generated on: Tue 16 Mar 2021 03:45:03 AM PDT
@@ -345,6 +347,7 @@
 0.0.0.0 hearst.amp.permutive.com
 0.0.0.0 hercules.iad.appboy.com
 0.0.0.0 htlb.casalemedia.com
+0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ibt-d.openx.net
@@ -447,6 +450,7 @@
 # Items in this list: 688
 # Items in this list: 693
 # Items in this list: 697
+# Items in this list: 699
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -455,6 +459,7 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 js.matheranalytics.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 js.taplytics.com

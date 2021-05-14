@@ -1,5 +1,5 @@
-# Block list generated on: Thu 13 May 2021 03:45:02 AM PDT
-# Items in this list: 706
+# Block list generated on: Fri 14 May 2021 03:45:04 AM PDT
+# Items in this list: 710
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -156,6 +156,7 @@
 # Block list generated on: Thu 06 May 2021 03:45:01 AM PDT
 # Block list generated on: Thu 08 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Thu 11 Mar 2021 03:45:01 AM PST
+# Block list generated on: Thu 13 May 2021 03:45:02 AM PDT
 # Block list generated on: Thu 15 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Thu 18 Feb 2021 03:45:03 AM PST
 # Block list generated on: Thu 18 Mar 2021 03:45:03 AM PDT
@@ -293,6 +294,7 @@
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 disney.demdex.net
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dns.google
 0.0.0.0 dpm.demdex.net
@@ -453,6 +455,7 @@
 # Items in this list: 697
 # Items in this list: 699
 # Items in this list: 704
+# Items in this list: 706
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -609,6 +612,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 s.swiftypecdn.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.ads-twitter.com

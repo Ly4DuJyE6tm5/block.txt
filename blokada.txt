@@ -1,5 +1,5 @@
-# Block list generated on: Fri 14 May 2021 03:45:04 AM PDT
-# Items in this list: 710
+# Block list generated on: Sat 15 May 2021 03:45:03 AM PDT
+# Items in this list: 716
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -93,6 +93,7 @@
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbstatic.pcmag.com
+0.0.0.0 b-code.liadm.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 beacon.krxd.net
 0.0.0.0 beacons5.gvt3.com
@@ -105,6 +106,7 @@
 # Block list generated on: Fri 07 May 2021 03:45:01 AM PDT
 # Block list generated on: Fri 09 Apr 2021 03:45:06 AM PDT
 # Block list generated on: Fri 12 Mar 2021 03:45:04 AM PST
+# Block list generated on: Fri 14 May 2021 03:45:04 AM PDT
 # Block list generated on: Fri 16 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Fri 19 Feb 2021 03:45:03 AM PST
 # Block list generated on: Fri 19 Mar 2021 03:45:03 AM PDT
@@ -456,6 +458,7 @@
 # Items in this list: 699
 # Items in this list: 704
 # Items in this list: 706
+# Items in this list: 710
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -537,6 +540,7 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.stats.live-video.net
@@ -635,6 +639,7 @@
 0.0.0.0 sw88.go.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 sync.serverbid.com
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s.youtube.com
@@ -651,6 +656,7 @@
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.co
 0.0.0.0 tempest.services.disqus.com
+0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps10232.doubleverify.com

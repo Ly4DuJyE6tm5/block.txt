@@ -1,5 +1,5 @@
-# Block list generated on: Fri 21 May 2021 03:45:03 AM PDT
-# Items in this list: 741
+# Block list generated on: Sat 22 May 2021 03:45:03 AM PDT
+# Items in this list: 748
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -83,8 +83,10 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 assets.context.ly
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.revcontent.com
+0.0.0.0 assets.ubembed.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at.atwola.com
 0.0.0.0 at.cbsi.com
@@ -113,6 +115,7 @@
 # Block list generated on: Fri 16 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Fri 19 Feb 2021 03:45:03 AM PST
 # Block list generated on: Fri 19 Mar 2021 03:45:03 AM PDT
+# Block list generated on: Fri 21 May 2021 03:45:03 AM PDT
 # Block list generated on: Fri 23 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Fri 26 Feb 2021 03:45:04 AM PST
 # Block list generated on: Fri 26 Mar 2021 03:45:04 AM PDT
@@ -290,8 +293,10 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 d1bl11pgu3tw3h.cloudfront.net
 0.0.0.0 d1lxz4vuik53pc.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
+0.0.0.0 d25dfknw9ghxs6.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2uap9jskdzp2.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -478,6 +483,7 @@
 # Items in this list: 722
 # Items in this list: 724
 # Items in this list: 738
+# Items in this list: 741
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -563,6 +569,7 @@
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.stats.live-video.net

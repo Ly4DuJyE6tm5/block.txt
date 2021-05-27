@@ -1,5 +1,5 @@
-# Block list generated on: Wed 26 May 2021 03:45:01 AM PDT
-# Items in this list: 758
+# Block list generated on: Thu 27 May 2021 03:45:01 AM PDT
+# Items in this list: 760
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -206,6 +206,7 @@
 # Block list generated on: Wed 21 Apr 2021 03:45:04 AM PDT
 # Block list generated on: Wed 24 Feb 2021 03:45:03 AM PST
 # Block list generated on: Wed 24 Mar 2021 03:45:03 AM PDT
+# Block list generated on: Wed 26 May 2021 03:45:01 AM PDT
 # Block list generated on: Wed 28 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Wed 31 Mar 2021 03:45:04 AM PDT
 0.0.0.0 blokada.org
@@ -492,6 +493,7 @@
 # Items in this list: 751
 # Items in this list: 754
 # Items in this list: 756
+# Items in this list: 758
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463

@@ -1,5 +1,5 @@
-# Block list generated on: Thu 27 May 2021 03:45:01 AM PDT
-# Items in this list: 760
+# Block list generated on: Fri 28 May 2021 03:45:01 AM PDT
+# Items in this list: 762
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -178,6 +178,7 @@
 # Block list generated on: Thu 22 Apr 2021 03:45:02 AM PDT
 # Block list generated on: Thu 25 Feb 2021 03:45:03 AM PST
 # Block list generated on: Thu 25 Mar 2021 03:45:03 AM PDT
+# Block list generated on: Thu 27 May 2021 03:45:01 AM PDT
 # Block list generated on: Thu 29 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Tue 02 Mar 2021 03:45:03 AM PST
 # Block list generated on: Tue 04 May 2021 03:45:01 AM PDT
@@ -494,6 +495,7 @@
 # Items in this list: 754
 # Items in this list: 756
 # Items in this list: 758
+# Items in this list: 760
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463

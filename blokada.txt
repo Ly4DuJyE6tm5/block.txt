@@ -1,5 +1,5 @@
-# Block list generated on: Wed 02 Jun 2021 03:45:01 AM PDT
-# Items in this list: 772
+# Block list generated on: Thu 03 Jun 2021 03:45:03 AM PDT
+# Items in this list: 777
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -63,6 +63,7 @@
 0.0.0.0 api.instagram.com
 0.0.0.0 api.iterable.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api.nextgen.guardianapps.co.uk
 0.0.0.0 api.pinterest.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api.rlcdn.com
@@ -200,6 +201,7 @@
 # Block list generated on: Tue 25 May 2021 03:45:04 AM PDT
 # Block list generated on: Tue 27 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Tue 30 Mar 2021 03:45:02 AM PDT
+# Block list generated on: Wed 02 Jun 2021 03:45:01 AM PDT
 # Block list generated on: Wed 03 Mar 2021 03:45:04 AM PST
 # Block list generated on: Wed 05 May 2021 03:45:03 AM PDT
 # Block list generated on: Wed 07 Apr 2021 03:45:03 AM PDT
@@ -506,10 +508,12 @@
 # Items in this list: 766
 # Items in this list: 768
 # Items in this list: 770
+# Items in this list: 772
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
 0.0.0.0 itunes.apple.com
+0.0.0.0 j.ophan.co.uk
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 jsc.mgid.com
@@ -567,6 +571,7 @@
 0.0.0.0 odeaiqfw.micpn.com
 0.0.0.0 olcfg.1plus.io
 0.0.0.0 oms.dowjoneson.com
+0.0.0.0 oms.expedia.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimized-by.rubiconproject.com

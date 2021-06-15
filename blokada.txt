@@ -1,5 +1,5 @@
-# Block list generated on: Mon 14 Jun 2021 03:45:01 AM PDT
-# Items in this list: 807
+# Block list generated on: Tue 15 Jun 2021 03:45:04 AM PDT
+# Items in this list: 810
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -132,6 +132,7 @@
 # Block list generated on: Mon 08 Mar 2021 03:45:01 AM PST
 # Block list generated on: Mon 10 May 2021 03:45:03 AM PDT
 # Block list generated on: Mon 12 Apr 2021 03:45:04 AM PDT
+# Block list generated on: Mon 14 Jun 2021 03:45:01 AM PDT
 \# Block list generated on:  Mon 15 Feb 2021 12:51:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:52:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:59:17 PM PST
@@ -535,6 +536,7 @@
 # Items in this list: 798
 # Items in this list: 803
 # Items in this list: 805
+# Items in this list: 807
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -551,6 +553,7 @@
 0.0.0.0 js.taplytics.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 laptop-updates.brave.com
 0.0.0.0 launcher.spot.im

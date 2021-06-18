@@ -1,5 +1,5 @@
-# Block list generated on: Thu 17 Jun 2021 03:45:03 AM PDT
-# Items in this list: 816
+# Block list generated on: Fri 18 Jun 2021 03:45:03 AM PDT
+# Items in this list: 819
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -188,6 +188,7 @@
 # Block list generated on: Thu 11 Mar 2021 03:45:01 AM PST
 # Block list generated on: Thu 13 May 2021 03:45:02 AM PDT
 # Block list generated on: Thu 15 Apr 2021 03:45:01 AM PDT
+# Block list generated on: Thu 17 Jun 2021 03:45:03 AM PDT
 # Block list generated on: Thu 18 Feb 2021 03:45:03 AM PST
 # Block list generated on: Thu 18 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Thu 20 May 2021 03:45:03 AM PDT
@@ -543,6 +544,7 @@
 # Items in this list: 807
 # Items in this list: 810
 # Items in this list: 812
+# Items in this list: 816
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -627,6 +629,7 @@
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel-c2s.sitescout.com
+0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-sync.sitescout.com

@@ -1,5 +1,5 @@
-# Block list generated on: Wed 30 Jun 2021 03:45:02 AM PDT
-# Items in this list: 843
+# Block list generated on: Thu 01 Jul 2021 03:45:03 AM PDT
+# Items in this list: 854
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -11,6 +11,7 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
@@ -55,6 +56,7 @@
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.siftscience.com
+0.0.0.0 api.ad.smaato.net
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.blocka.net
@@ -68,7 +70,9 @@
 0.0.0.0 api.pinterest.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api.rlcdn.com
+0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api.segment.io
+0.0.0.0 api.taboola.com
 0.0.0.0 api.twitter.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
@@ -78,6 +82,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
+0.0.0.0 app.datadoghq.com
 0.0.0.0 app.link
 0.0.0.0 app-measurement.com
 0.0.0.0 appr.1plus.io
@@ -244,6 +249,7 @@
 # Block list generated on: Wed 24 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Wed 26 May 2021 03:45:01 AM PDT
 # Block list generated on: Wed 28 Apr 2021 03:45:01 AM PDT
+# Block list generated on: Wed 30 Jun 2021 03:45:02 AM PDT
 # Block list generated on: Wed 31 Mar 2021 03:45:04 AM PDT
 0.0.0.0 blokada.org
 0.0.0.0 browser.sentry-cdn.com
@@ -329,6 +335,7 @@
 0.0.0.0 connect.scroll.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
+0.0.0.0 consent.trustarc.com
 0.0.0.0 contentpersonalization.api.intuit.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contributor.google.com
@@ -569,6 +576,7 @@
 # Items in this list: 837
 # Items in this list: 839
 # Items in this list: 841
+# Items in this list: 843
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -739,6 +747,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssor.tribdss.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
@@ -778,6 +787,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.co
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
@@ -809,6 +819,7 @@
 0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 wd.adcolony.com
 0.0.0.0 webcontentassessor.global.ssl.fastly.net
+0.0.0.0 web.facebook.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com

@@ -1,5 +1,5 @@
-# Block list generated on: Thu 01 Jul 2021 03:45:03 AM PDT
-# Items in this list: 854
+# Block list generated on: Fri 02 Jul 2021 03:45:04 AM PDT
+# Items in this list: 857
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -193,6 +193,7 @@
 # Block list generated on: Sun 28 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Sun 30 May 2021 03:45:01 AM PDT
 # Block list generated on: Thu 01 Apr 2021 03:45:01 AM PDT
+# Block list generated on: Thu 01 Jul 2021 03:45:03 AM PDT
 # Block list generated on: Thu 03 Jun 2021 03:45:03 AM PDT
 # Block list generated on: Thu 04 Mar 2021 03:45:03 AM PST
 # Block list generated on: Thu 06 May 2021 03:45:01 AM PDT
@@ -577,6 +578,7 @@
 # Items in this list: 839
 # Items in this list: 841
 # Items in this list: 843
+# Items in this list: 854
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -731,6 +733,7 @@
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 sejs.moatads.com
+0.0.0.0 sentry.io
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settings.crashlytics.com

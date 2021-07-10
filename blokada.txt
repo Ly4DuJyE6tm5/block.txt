@@ -1,5 +1,5 @@
-# Block list generated on: Fri 09 Jul 2021 03:45:01 AM PDT
-# Items in this list: 874
+# Block list generated on: Sat 10 Jul 2021 03:45:03 AM PDT
+# Items in this list: 881
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -41,6 +41,7 @@
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 ampcid.google.com
 0.0.0.0 amplify.outbrain.com
+0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amp.permutive.com
 0.0.0.0 amprtc.media.net
 0.0.0.0 amp.spot.im
@@ -119,6 +120,7 @@
 # Block list generated on: Fri 05 Mar 2021 03:45:01 AM PST
 # Block list generated on: Fri 07 May 2021 03:45:01 AM PDT
 # Block list generated on: Fri 09 Apr 2021 03:45:06 AM PDT
+# Block list generated on: Fri 09 Jul 2021 03:45:01 AM PDT
 # Block list generated on: Fri 11 Jun 2021 03:45:03 AM PDT
 # Block list generated on: Fri 12 Mar 2021 03:45:04 AM PST
 # Block list generated on: Fri 14 May 2021 03:45:04 AM PDT
@@ -270,6 +272,7 @@
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 capture.condenastdigital.com
+0.0.0.0 cbsi.demdex.net
 0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdm.connatix.com
@@ -594,6 +597,7 @@
 # Items in this list: 868
 # Items in this list: 870
 # Items in this list: 872
+# Items in this list: 874
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -798,6 +802,7 @@
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.crsspxl.com
+0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
@@ -819,6 +824,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.vidible.tv
 0.0.0.0 tru.am
+0.0.0.0 t.teads.tv
 0.0.0.0 twitter.com
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 udc.yahoo.com
@@ -829,6 +835,7 @@
 0.0.0.0 us.device3.mobile.pendo.io
 0.0.0.0 use.typekit.net
 0.0.0.0 vendorlist.consensu.org
+0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video.twimg.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid.springserve.com

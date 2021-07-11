@@ -1,5 +1,5 @@
-# Block list generated on: Sat 10 Jul 2021 03:45:03 AM PDT
-# Items in this list: 881
+# Block list generated on: Sun 11 Jul 2021 03:45:04 AM PDT
+# Items in this list: 886
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -165,6 +165,7 @@
 # Block list generated on: Sat 06 Mar 2021 03:45:03 AM PST
 # Block list generated on: Sat 08 May 2021 03:45:01 AM PDT
 # Block list generated on: Sat 10 Apr 2021 03:45:01 AM PDT
+# Block list generated on: Sat 10 Jul 2021 03:45:03 AM PDT
 # Block list generated on: Sat 12 Jun 2021 03:45:04 AM PDT
 # Block list generated on: Sat 13 Mar 2021 03:45:03 AM PST
 # Block list generated on: Sat 15 May 2021 03:45:03 AM PDT
@@ -435,6 +436,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htlbid.com
 0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ibt-d.openx.net
@@ -598,10 +600,12 @@
 # Items in this list: 870
 # Items in this list: 872
 # Items in this list: 874
+# Items in this list: 881
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
 0.0.0.0 itunes.apple.com
+0.0.0.0 i.viafoura.co
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
@@ -809,6 +813,7 @@
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.co
 0.0.0.0 tealium.cbsnews.com

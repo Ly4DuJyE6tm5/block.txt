@@ -1,5 +1,5 @@
-# Block list generated on: Mon 12 Jul 2021 03:45:01 AM PDT
-# Items in this list: 888
+# Block list generated on: Tue 13 Jul 2021 03:45:06 AM PDT
+# Items in this list: 898
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -55,6 +55,7 @@
 0.0.0.0 androidpolice.disqus.com
 0.0.0.0 a.omappapi.com
 0.0.0.0 apex.go.sonobi.com
+0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api.ad.smaato.net
@@ -143,6 +144,7 @@
 # Block list generated on: Mon 08 Mar 2021 03:45:01 AM PST
 # Block list generated on: Mon 10 May 2021 03:45:03 AM PDT
 # Block list generated on: Mon 12 Apr 2021 03:45:04 AM PDT
+# Block list generated on: Mon 12 Jul 2021 03:45:01 AM PDT
 # Block list generated on: Mon 14 Jun 2021 03:45:01 AM PDT
 \# Block list generated on:  Mon 15 Feb 2021 12:51:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:52:43 PM PST
@@ -450,11 +452,13 @@
 0.0.0.0 imgur.ccgateway.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 includemodal.global.ssl.fastly.net
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+0.0.0.0 intldlgs.qq.com
 0.0.0.0 i.pinimg.com
 0.0.0.0 ir-na.amazon-adsystem.com
 # Items in this list: 465
@@ -603,12 +607,14 @@
 # Items in this list: 874
 # Items in this list: 881
 # Items in this list: 886
+# Items in this list: 888
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
 0.0.0.0 itunes.apple.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 j.ophan.co.uk
+0.0.0.0 js.adsrvr.org
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 jsc.mgid.com
@@ -660,6 +666,7 @@
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nexus.ensighten.com
+0.0.0.0 notifications.viafoura.co
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 o17675.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
@@ -740,6 +747,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 scdn.cxense.com
+0.0.0.0 scorecardresearch.com
 0.0.0.0 script.4dex.io
 0.0.0.0 script.crazyegg.com
 0.0.0.0 scripts.mediavine.com
@@ -747,6 +755,7 @@
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 sdc.cnn.com
 0.0.0.0 sdk.iad-03.braze.com
+0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.sascdn.com
 0.0.0.0 sdk.snapkit.com
 0.0.0.0 sdk.split.io
@@ -824,6 +833,7 @@
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps10232.doubleverify.com
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trends.revcontent.com
 0.0.0.0 triggeredmail.appspot.com

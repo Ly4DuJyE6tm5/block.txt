@@ -1,5 +1,5 @@
-# Block list generated on: Sun 18 Jul 2021 03:45:02 AM PDT
-# Items in this list: 911
+# Block list generated on: Mon 19 Jul 2021 03:45:19 AM PDT
+# Items in this list: 918
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a314.gameloft.com
@@ -106,6 +106,7 @@
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
+0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bbstatic.pcmag.com
 0.0.0.0 b-code.liadm.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -195,6 +196,7 @@
 # Block list generated on: Sun 14 Mar 2021 03:45:04 AM PDT
 # Block list generated on: Sun 16 May 2021 03:45:04 AM PDT
 # Block list generated on: Sun 18 Apr 2021 03:45:01 AM PDT
+# Block list generated on: Sun 18 Jul 2021 03:45:02 AM PDT
 # Block list generated on: Sun 20 Jun 2021 03:45:04 AM PDT
 # Block list generated on: Sun 21 Feb 2021 03:45:04 AM PST
 # Block list generated on: Sun 21 Mar 2021 03:45:03 AM PDT
@@ -326,6 +328,7 @@
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.syndication.twimg.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.unid.go.com
@@ -621,12 +624,14 @@
 # Items in this list: 902
 # Items in this list: 907
 # Items in this list: 909
+# Items in this list: 911
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
 0.0.0.0 itunes.apple.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 j.ophan.co.uk
+0.0.0.0 jp.f.gm.mob.com
 0.0.0.0 js.adsrvr.org
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
@@ -677,6 +682,7 @@
 0.0.0.0 mrb.upapi.net
 0.0.0.0 m.stripe.network
 0.0.0.0 m.yap.yahoo.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 notifications.viafoura.co
@@ -768,6 +774,7 @@
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 sdc.cnn.com
 0.0.0.0 sdk.iad-03.braze.com
+0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.sascdn.com
 0.0.0.0 sdk.snapkit.com

@@ -1,5 +1,5 @@
-# Block list generated on: Tue 27 Jul 2021 03:45:04 AM PDT
-# Items in this list: 945
+# Block list generated on: Wed 28 Jul 2021 03:45:04 AM PDT
+# Items in this list: 949
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -256,6 +256,7 @@
 # Block list generated on: Tue 23 Mar 2021 03:45:01 AM PDT
 # Block list generated on: Tue 25 May 2021 03:45:04 AM PDT
 # Block list generated on: Tue 27 Apr 2021 03:45:03 AM PDT
+# Block list generated on: Tue 27 Jul 2021 03:45:04 AM PDT
 # Block list generated on: Tue 29 Jun 2021 03:45:01 AM PDT
 # Block list generated on: Tue 30 Mar 2021 03:45:02 AM PDT
 # Block list generated on: Wed 02 Jun 2021 03:45:01 AM PDT
@@ -646,6 +647,7 @@
 # Items in this list: 928
 # Items in this list: 939
 # Items in this list: 941
+# Items in this list: 945
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -663,6 +665,7 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 js.taplytics.com
+0.0.0.0 js.trendmd.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
@@ -905,6 +908,7 @@
 0.0.0.0 vm.tiktok.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 vrt.outbrain.com
+0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 wd.adcolony.com
 0.0.0.0 webcontentassessor.global.ssl.fastly.net

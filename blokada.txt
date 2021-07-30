@@ -1,5 +1,5 @@
-# Block list generated on: Thu 29 Jul 2021 03:45:03 AM PDT
-# Items in this list: 951
+# Block list generated on: Fri 30 Jul 2021 03:45:04 AM PDT
+# Items in this list: 955
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -17,6 +17,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ad.leap.app
 0.0.0.0 adlog.flurry.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adthrive.com
@@ -235,6 +236,7 @@
 # Block list generated on: Thu 25 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Thu 27 May 2021 03:45:01 AM PDT
 # Block list generated on: Thu 29 Apr 2021 03:45:01 AM PDT
+# Block list generated on: Thu 29 Jul 2021 03:45:03 AM PDT
 # Block list generated on: Tue 01 Jun 2021 03:45:03 AM PDT
 # Block list generated on: Tue 02 Mar 2021 03:45:03 AM PST
 # Block list generated on: Tue 04 May 2021 03:45:01 AM PDT
@@ -650,6 +652,7 @@
 # Items in this list: 941
 # Items in this list: 945
 # Items in this list: 949
+# Items in this list: 951
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -882,6 +885,7 @@
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps10232.doubleverify.com
+0.0.0.0 tracing-collector.strava.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trends.revcontent.com

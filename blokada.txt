@@ -1,5 +1,5 @@
-# Block list generated on: Sat 31 Jul 2021 03:45:01 AM PDT
-# Items in this list: 957
+# Block list generated on: Sun 01 Aug 2021 03:45:04 AM PDT
+# Items in this list: 965
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -103,6 +103,7 @@
 0.0.0.0 at.cbsi.com
 0.0.0.0 a.teads.tv
 0.0.0.0 ats.rlcdn.com
+0.0.0.0 auth.split.io
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
 0.0.0.0 bam.nr-data.net
@@ -191,6 +192,7 @@
 # Block list generated on: Sat 27 Feb 2021 03:45:03 AM PST
 # Block list generated on: Sat 27 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Sat 29 May 2021 03:45:02 AM PDT
+# Block list generated on: Sat 31 Jul 2021 03:45:01 AM PDT
 # Block list generated on: Sun 02 May 2021 03:45:01 AM PDT
 # Block list generated on: Sun 04 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Sun 04 Jul 2021 03:45:03 AM PDT
@@ -321,6 +323,7 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.districtm.ca
+0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.iubenda.com
@@ -366,6 +369,7 @@
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collect.tealiumiq.com
+0.0.0.0 colossusssp.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -443,7 +447,9 @@
 0.0.0.0 ftp.fau.de
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 gannett-d.openx.net
 0.0.0.0 gc.newsweek.com
+0.0.0.0 geolocation.1trust.app
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.yahoo.com
@@ -655,6 +661,7 @@
 # Items in this list: 949
 # Items in this list: 951
 # Items in this list: 955
+# Items in this list: 957
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -764,6 +771,7 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid-a.rubiconproject.com
+0.0.0.0 prebid.media.net
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 p.skimresources.com

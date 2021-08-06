@@ -1,5 +1,5 @@
-# Block list generated on: Thu 05 Aug 2021 03:45:04 AM PDT
-# Items in this list: 974
+# Block list generated on: Fri 06 Aug 2021 03:45:04 AM PDT
+# Items in this list: 976
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -222,6 +222,7 @@
 # Block list generated on: Thu 01 Jul 2021 03:45:03 AM PDT
 # Block list generated on: Thu 03 Jun 2021 03:45:03 AM PDT
 # Block list generated on: Thu 04 Mar 2021 03:45:03 AM PST
+# Block list generated on: Thu 05 Aug 2021 03:45:04 AM PDT
 # Block list generated on: Thu 06 May 2021 03:45:01 AM PDT
 # Block list generated on: Thu 08 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Thu 08 Jul 2021 03:45:01 AM PDT
@@ -671,6 +672,7 @@
 # Items in this list: 967
 # Items in this list: 970
 # Items in this list: 972
+# Items in this list: 974
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463

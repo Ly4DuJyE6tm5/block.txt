@@ -1,5 +1,5 @@
-# Block list generated on: Wed 11 Aug 2021 03:45:04 AM PDT
-# Items in this list: 995
+# Block list generated on: Thu 12 Aug 2021 03:45:04 AM PDT
+# Items in this list: 998
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -282,6 +282,7 @@
 # Block list generated on: Wed 07 Jul 2021 03:45:01 AM PDT
 # Block list generated on: Wed 09 Jun 2021 03:45:03 AM PDT
 # Block list generated on: Wed 10 Mar 2021 03:45:03 AM PST
+# Block list generated on: Wed 11 Aug 2021 03:45:04 AM PDT
 # Block list generated on: Wed 12 May 2021 03:45:03 AM PDT
 # Block list generated on: Wed 14 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Wed 14 Jul 2021 03:45:01 AM PDT
@@ -686,6 +687,7 @@
 # Items in this list: 980
 # Items in this list: 982
 # Items in this list: 993
+# Items in this list: 995
 \# Itens in this list: 459
 # Itens in this list: 461
 # Itens in this list: 463
@@ -773,6 +775,7 @@
 0.0.0.0 p.datadoghq.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 phar.gu-web.net
+0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pinterest.com
 0.0.0.0 pixel.adsafeprotected.com

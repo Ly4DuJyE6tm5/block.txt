@@ -1,5 +1,5 @@
-# Block list generated on: Mon 16 Aug 2021 03:45:04 AM PDT
-# Items in this list: 1008
+# Block list generated on: Tue 17 Aug 2021 03:45:04 AM PDT
+# Items in this list: 1011
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -163,6 +163,7 @@
 # Block list generated on: Mon 15 Feb 2021 12:52:43 PM PST
 # Block list generated on: Mon 15 Feb 2021 12:59:17 PM PST
 # Block list generated on: Mon 15 Mar 2021 03:45:03 AM PDT
+# Block list generated on: Mon 16 Aug 2021 03:45:04 AM PDT
 # Block list generated on: Mon 17 May 2021 03:45:01 AM PDT
 # Block list generated on: Mon 19 Apr 2021 03:45:04 AM PDT
 # Block list generated on: Mon 19 Jul 2021 03:45:19 AM PDT
@@ -384,6 +385,7 @@
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cmp.osano.com
 0.0.0.0 codepush.appcenter.ms
+0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 colossusssp.com
@@ -519,6 +521,7 @@
 # Items in this list: 1000
 # Items in this list: 1002
 # Items in this list: 1006
+# Items in this list: 1008
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470

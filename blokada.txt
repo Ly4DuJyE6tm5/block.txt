@@ -1,9 +1,10 @@
-# Block list generated on: Wed 01 Sep 2021 03:45:01 AM PDT
-# Items in this list: 1048
+# Block list generated on: Thu 02 Sep 2021 03:45:04 AM PDT
+# Items in this list: 1054
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 a314.gameloft.com
+0.0.0.0 aamt.nbcnews.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -11,6 +12,7 @@
 0.0.0.0 abcnews.tt.omtrdc.net
 0.0.0.0 abs.twimg.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 acsbapp.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad-delivery.net
@@ -294,6 +296,7 @@
 # Block list generated on: Tue 29 Jun 2021 03:45:01 AM PDT
 # Block list generated on: Tue 30 Mar 2021 03:45:02 AM PDT
 # Block list generated on: Tue 31 Aug 2021 03:45:03 AM PDT
+# Block list generated on: Wed 01 Sep 2021 03:45:01 AM PDT
 # Block list generated on: Wed 02 Jun 2021 03:45:01 AM PDT
 # Block list generated on: Wed 03 Mar 2021 03:45:04 AM PST
 # Block list generated on: Wed 04 Aug 2021 03:45:01 AM PDT
@@ -554,6 +557,7 @@
 # Items in this list: 1042
 # Items in this list: 1044
 # Items in this list: 1046
+# Items in this list: 1048
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -796,6 +800,7 @@
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 native.sharethrough.com
+0.0.0.0 ncp-gw-finance.media.yahoo.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 notifications.viafoura.co
 0.0.0.0 notify.bugsnag.com
@@ -974,6 +979,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
+0.0.0.0 t.paypal.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 tracing-collector.strava.com

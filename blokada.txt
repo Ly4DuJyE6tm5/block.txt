@@ -1,5 +1,5 @@
-# Block list generated on: Sat 04 Sep 2021 03:45:01 AM PDT
-# Items in this list: 1058
+# Block list generated on: Sun 05 Sep 2021 03:45:04 AM PDT
+# Items in this list: 1061
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -187,6 +187,7 @@
 # Block list generated on: Sat 01 May 2021 03:45:03 AM PDT
 # Block list generated on: Sat 03 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Sat 03 Jul 2021 03:45:01 AM PDT
+# Block list generated on: Sat 04 Sep 2021 03:45:01 AM PDT
 # Block list generated on: Sat 05 Jun 2021 03:45:01 AM PDT
 # Block list generated on: Sat 06 Mar 2021 03:45:03 AM PST
 # Block list generated on: Sat 07 Aug 2021 03:45:04 AM PDT
@@ -562,6 +563,7 @@
 # Items in this list: 1048
 # Items in this list: 1054
 # Items in this list: 1056
+# Items in this list: 1058
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -981,6 +983,7 @@
 0.0.0.0 t.co
 0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tempest.services.disqus.com
+0.0.0.0 theenthusiastnetwork-ash.gscontxt.net
 0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 t.paypal.com

@@ -1,5 +1,5 @@
-# Block list generated on: Thu 09 Sep 2021 03:45:01 AM PDT
-# Items in this list: 1071
+# Block list generated on: Fri 10 Sep 2021 03:45:05 AM PDT
+# Items in this list: 1078
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -84,6 +84,7 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api.twitter.com
 0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 api.us-east-1.aiv-delivery.net
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.whatsapp.com
@@ -253,6 +254,7 @@
 # Block list generated on: Thu 06 May 2021 03:45:01 AM PDT
 # Block list generated on: Thu 08 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Thu 08 Jul 2021 03:45:01 AM PDT
+# Block list generated on: Thu 09 Sep 2021 03:45:01 AM PDT
 # Block list generated on: Thu 10 Jun 2021 03:45:01 AM PDT
 # Block list generated on: Thu 11 Mar 2021 03:45:01 AM PST
 # Block list generated on: Thu 12 Aug 2021 03:45:04 AM PDT
@@ -574,6 +576,7 @@
 # Items in this list: 1065
 # Items in this list: 1067
 # Items in this list: 1069
+# Items in this list: 1071
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -831,6 +834,7 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 otaafsg-cost.h2os.com
 0.0.0.0 otag.h2os.com
 0.0.0.0 ovp.iris.tv
@@ -949,6 +953,7 @@
 0.0.0.0 s.skimresources.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssor.tribdss.com
+0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
@@ -994,6 +999,7 @@
 0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 theenthusiastnetwork-ash.gscontxt.net
+0.0.0.0 thehill-d.openx.net
 0.0.0.0 thrtle.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 t.paypal.com
@@ -1044,6 +1050,7 @@
 0.0.0.0 www9.smartadserver.com
 0.0.0.0 www.avantlink.com
 0.0.0.0 www.dianomi.com
+0.0.0.0 www.engadget.com
 0.0.0.0 www-expeditionportal-com.disqus.com
 0.0.0.0 www.extremetech.com
 0.0.0.0 www.facebook.com

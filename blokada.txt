@@ -1,5 +1,5 @@
-# Block list generated on: Sat 18 Sep 2021 03:45:01 AM PDT
-# Items in this list: 1101
+# Block list generated on: Sun 19 Sep 2021 03:45:04 AM PDT
+# Items in this list: 1105
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -113,6 +113,7 @@
 0.0.0.0 auth.split.io
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
+0.0.0.0 backstory.ebay.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
@@ -207,6 +208,7 @@
 # Block list generated on: Sat 15 May 2021 03:45:03 AM PDT
 # Block list generated on: Sat 17 Apr 2021 03:45:04 AM PDT
 # Block list generated on: Sat 17 Jul 2021 03:45:01 AM PDT
+# Block list generated on: Sat 18 Sep 2021 03:45:01 AM PDT
 # Block list generated on: Sat 19 Jun 2021 03:45:04 AM PDT
 # Block list generated on: Sat 20 Feb 2021 03:45:03 AM PST
 # Block list generated on: Sat 20 Mar 2021 03:45:02 AM PDT
@@ -597,6 +599,7 @@
 # Items in this list: 1089
 # Items in this list: 1097
 # Items in this list: 1099
+# Items in this list: 1101
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -977,6 +980,7 @@
 0.0.0.0 ssor.tribdss.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 s.swiftypecdn.com
+0.0.0.0 stags.bluekai.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.ads-twitter.com

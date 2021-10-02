@@ -1,5 +1,5 @@
-# Block list generated on: Fri 01 Oct 2021 03:45:01 AM PDT
-# Items in this list: 1132
+# Block list generated on: Sat 02 Oct 2021 03:45:05 AM PDT
+# Items in this list: 1137
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -128,6 +128,7 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 bidder.criteo.com
+# Block list generated on: Fri 01 Oct 2021 03:45:01 AM PDT
 # Block list generated on: Fri 02 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Fri 02 Jul 2021 03:45:04 AM PDT
 # Block list generated on: Fri 03 Sep 2021 03:45:01 AM PDT
@@ -501,6 +502,7 @@
 0.0.0.0 etahub.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eventbus.intuit.com
+0.0.0.0 events.appsflyer.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 exceptions.mobile.yahoo.com
 0.0.0.0 experience.tinypass.com
@@ -625,6 +627,7 @@
 # Items in this list: 1124
 # Items in this list: 1127
 # Items in this list: 1130
+# Items in this list: 1132
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -830,6 +833,7 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
+0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 logx.optimizely.com
 0.0.0.0 m1.nsimg.net
 0.0.0.0 m2d.m2.ai
@@ -873,6 +877,7 @@
 0.0.0.0 nintendoofamerica.tt.omtrdc.net
 0.0.0.0 notifications.viafoura.co
 0.0.0.0 notify.bugsnag.com
+0.0.0.0 o17585.ingest.sentry.io
 0.0.0.0 o17675.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o315582.ingest.sentry.io

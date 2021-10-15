@@ -1,5 +1,5 @@
-# Block list generated on: Thu 14 Oct 2021 03:45:04 AM PDT
-# Items in this list: 1167
+# Block list generated on: Fri 15 Oct 2021 03:45:04 AM PDT
+# Items in this list: 1171
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -284,6 +284,7 @@
 # Block list generated on: Thu 11 Mar 2021 03:45:01 AM PST
 # Block list generated on: Thu 12 Aug 2021 03:45:04 AM PDT
 # Block list generated on: Thu 13 May 2021 03:45:02 AM PDT
+# Block list generated on: Thu 14 Oct 2021 03:45:04 AM PDT
 # Block list generated on: Thu 15 Apr 2021 03:45:01 AM PDT
 # Block list generated on: Thu 15 Jul 2021 03:45:01 AM PDT
 # Block list generated on: Thu 16 Sep 2021 03:45:04 AM PDT
@@ -541,6 +542,7 @@
 0.0.0.0 ftp.fau.de
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 gads.pubmatic.com
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 gc.newsweek.com
 0.0.0.0 geolocation.1trust.app
@@ -655,6 +657,7 @@
 # Items in this list: 1158
 # Items in this list: 1160
 # Items in this list: 1163
+# Items in this list: 1167
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -1034,6 +1037,7 @@
 0.0.0.0 s.pinimg.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sponge.creditkarma.com
+0.0.0.0 s.pubmine.com
 0.0.0.0 src.ebay-us.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 s.skimresources.com

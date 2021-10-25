@@ -1,8 +1,9 @@
-# Block list generated on: Sun 24 Oct 2021 03:45:01 AM PDT
-# Items in this list: 1200
+# Block list generated on: Mon 25 Oct 2021 03:45:04 AM PDT
+# Items in this list: 1209
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
+0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 a248.e.akamai.net
@@ -269,6 +270,7 @@
 # Block list generated on: Sun 21 Mar 2021 03:45:03 AM PDT
 # Block list generated on: Sun 22 Aug 2021 03:45:19 AM PDT
 # Block list generated on: Sun 23 May 2021 03:45:04 AM PDT
+# Block list generated on: Sun 24 Oct 2021 03:45:01 AM PDT
 # Block list generated on: Sun 25 Apr 2021 03:45:03 AM PDT
 # Block list generated on: Sun 25 Jul 2021 03:45:04 AM PDT
 # Block list generated on: Sun 26 Sep 2021 03:45:01 AM PDT
@@ -684,6 +686,7 @@
 # Items in this list: 1191
 # Items in this list: 1196
 # Items in this list: 1198
+# Items in this list: 1200
 # Items in this list: 465
 # Items in this list: 467
 # Items in this list: 470
@@ -953,11 +956,15 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 otaafsg-cost.h2os.com
 0.0.0.0 otag.h2os.com
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ovp.iris.tv
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 path1.xtracloud.net
+0.0.0.0 path2.xtracloud.net
+0.0.0.0 path3.xtracloud.net
 0.0.0.0 pbs.twimg.com
 0.0.0.0 p.datadoghq.com
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -1029,6 +1036,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 scdn.cxense.com
+0.0.0.0 scontent-atl3-1.xx.fbcdn.net
 0.0.0.0 scorecardresearch.com
 0.0.0.0 script.4dex.io
 0.0.0.0 script.crazyegg.com
@@ -1095,6 +1103,7 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 su.addthis.com
+0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 sw88.go.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 sync.go.sonobi.com

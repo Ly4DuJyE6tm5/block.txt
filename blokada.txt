@@ -1,5 +1,5 @@
-# Block list generated on: Mon 25 Oct 2021 02:21:32 PM PDT
-# Items in this list: 702
+# Block list generated on: Tue 26 Oct 2021 03:45:01 AM PDT
+# Items in this list: 704
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -133,6 +133,7 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 bidder.criteo.com
+# Block list generated on: Mon 25 Oct 2021 02:21:32 PM PDT
 0.0.0.0 blokada.org
 0.0.0.0 brightcombid.marphezis.com
 0.0.0.0 browser.events.data.microsoft.com
@@ -360,6 +361,7 @@
 0.0.0.0 intldlgs.qq.com
 0.0.0.0 i.pinimg.com
 0.0.0.0 ir-na.amazon-adsystem.com
+# Items in this list: 702
 0.0.0.0 itunes.apple.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 j.ophan.co.uk

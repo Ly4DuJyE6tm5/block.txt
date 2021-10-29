@@ -1,5 +1,5 @@
-# Block list generated on: Thu 28 Oct 2021 03:45:01 AM PDT
-# Items in this list: 708
+# Block list generated on: Fri 29 Oct 2021 03:45:03 AM PDT
+# Items in this list: 715
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -134,6 +134,7 @@
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 bidder.criteo.com
 # Block list generated on: Mon 25 Oct 2021 02:21:32 PM PDT
+# Block list generated on: Thu 28 Oct 2021 03:45:01 AM PDT
 # Block list generated on: Tue 26 Oct 2021 03:45:01 AM PDT
 # Block list generated on: Wed 27 Oct 2021 03:45:01 AM PDT
 0.0.0.0 blokada.org
@@ -217,6 +218,7 @@
 0.0.0.0 charlesschwab.sc.omtrdc.net
 0.0.0.0 cio.hired.com
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cmp.osano.com
@@ -315,6 +317,7 @@
 0.0.0.0 gc.newsweek.com
 0.0.0.0 geolocation.1trust.app
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.yahoo.com
 0.0.0.0 get.s-onetag.com
@@ -366,6 +369,7 @@
 # Items in this list: 702
 # Items in this list: 704
 # Items in this list: 706
+# Items in this list: 708
 0.0.0.0 itunes.apple.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 j.ophan.co.uk
@@ -426,6 +430,7 @@
 0.0.0.0 mps.cnbc.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mps.nbcuni.com
+0.0.0.0 mpx.mopub.com
 0.0.0.0 m.quantcount.com
 0.0.0.0 mrb.upapi.net
 0.0.0.0 m.stripe.network
@@ -501,6 +506,7 @@
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub.doubleverify.com
+0.0.0.0 public.servenobid.com
 0.0.0.0 publisher-assets.spot.im
 0.0.0.0 pubnative.info
 0.0.0.0 px.gfycat.com
@@ -558,6 +564,7 @@
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 sejs.moatads.com
+0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 sentry.io
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 sessions.bugsnag.com

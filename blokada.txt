@@ -15,7 +15,8 @@
 0.0.0.0 aamt.nbcnews.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 aax-us-iad.amazon.com0.0.0.0 adlog.flurry.com
+0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 adlog.flurry.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 abcnews.tt.omtrdc.net
 0.0.0.0 abs.twimg.com
@@ -95,7 +96,8 @@
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.siftscience.com
-0.0.0.0 api3.siftscience.com0.0.0.0 adlog.flurry.com
+0.0.0.0 api3.siftscience.com
+0.0.0.0 adlog.flurry.com
 0.0.0.0 app-category-api.1plus.io
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com

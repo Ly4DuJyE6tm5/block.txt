@@ -1,4 +1,4 @@
-# Generated:  Sat 20 Nov 00:23:34 GMT 2021 With 714 records
+# Generated:  Sat 20 Nov 00:24:55 GMT 2021 With 713 records
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 acsbapp.com
 0.0.0.0 adc3-launch.adcolony.com
@@ -699,7 +699,6 @@
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segment-data.zqtk.net
-0.0.0.0 0.0.0.0
 0.0.0.0 app-category-api.1plus.io
 0.0.0.0 appr.1plus.io
 0.0.0.0 oaf-api.1plus.io

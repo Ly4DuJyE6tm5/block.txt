@@ -1,4 +1,4 @@
-# Generated:  Thu 2 Dec 00:17:03 GMT 2021 With 713 records
+# Generated:  Thu 2 Dec 08:17:02 GMT 2021 With 714 records
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 acsbapp.com
 0.0.0.0 adc3-launch.adcolony.com
@@ -140,6 +140,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 analytics.chase.com
+0.0.0.0 inbox.clashofclans.com
 0.0.0.0 i.clean.gg
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 static.cloudflareinsights.com

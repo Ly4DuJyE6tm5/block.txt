@@ -24,6 +24,10 @@
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ad.leap.app
 0.0.0.0 adlog.flurry.com
+0.0.0.0 sell.amazon.com
+0.0.0.0 s3.wasabisys.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 tr-us.adsmoloco.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads-api.twitter.com

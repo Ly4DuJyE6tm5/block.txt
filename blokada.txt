@@ -25,6 +25,7 @@
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.leap.app
+0.0.0.0 ad.wsod.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
@@ -43,10 +44,12 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adservice.google.com
 0.0.0.0 agility.cnn.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 akimages.shoplocal.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amp.casalemedia.com
@@ -243,6 +246,7 @@
 0.0.0.0 contributor.google.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 counter.aws.int.celereapis.com
+0.0.0.0 counter.yadro.ru
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 csi.gstatic.com
@@ -284,6 +288,7 @@
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 eq97f.publishers.tremorhub.com
 0.0.0.0 etahub.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eventbus.intuit.com
@@ -336,6 +341,7 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbx.media.net
+0.0.0.0 heads-fa.scdn.co
 0.0.0.0 hearst.amp.permutive.com
 0.0.0.0 hercules.iad.appboy.com
 0.0.0.0 htlb.casalemedia.com
@@ -367,6 +373,7 @@
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
 0.0.0.0 intldlgs.qq.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 it.shoplocal.com
 0.0.0.0 itunes.apple.com
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 jp.f.gm.mob.com
@@ -607,6 +614,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.wp.com
+0.0.0.0 steadfastseat.com
 0.0.0.0 su.addthis.com
 0.0.0.0 supercell.helpshift.com
 0.0.0.0 survey.g.doubleclick.net
@@ -642,6 +650,7 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 tracing-collector.strava.com
+0.0.0.0 track1.aniview.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trends.revcontent.com

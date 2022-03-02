@@ -1,4 +1,4 @@
-# Generated on Mon 28 Feb 08:30:01 PST 2022 with 716 records
+# Generated on Wed Mar 2 12:39:47 PST 2022 with 727 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -217,6 +217,7 @@
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 charlesschwab.sc.omtrdc.net
+0.0.0.0 chat.signal.org
 0.0.0.0 cio.hired.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 clientstream.launchdarkly.com
@@ -543,6 +544,7 @@
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 s.yieldmo.com
+0.0.0.0 s.yimg.com
 0.0.0.0 s.youtube.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.sentry-cdn.com

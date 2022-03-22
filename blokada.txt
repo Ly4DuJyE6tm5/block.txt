@@ -19,7 +19,6 @@
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 abcnews.tt.omtrdc.net
-0.0.0.0 abs.twimg.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acsbapp.com
 0.0.0.0 ad-delivery.net
@@ -51,7 +50,6 @@
 0.0.0.0 agility.cnn.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 akimages.shoplocal.com
-0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 amp.permutive.com
@@ -479,7 +477,6 @@
 0.0.0.0 path1.xtracloud.net
 0.0.0.0 path2.xtracloud.net
 0.0.0.0 path3.xtracloud.net
-0.0.0.0 pbs.twimg.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 phar.gu-web.net
@@ -520,7 +517,6 @@
 0.0.0.0 px.britepool.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 px.moatads.com
-0.0.0.0 px.redgifs.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 query.fqtag.com
 0.0.0.0 r.skimresources.com
@@ -681,7 +677,6 @@
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 vid.springserve.com
 0.0.0.0 video.adaptv.advertising.com
-0.0.0.0 video.twimg.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 vm.tiktok.com

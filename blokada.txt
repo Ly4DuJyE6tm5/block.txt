@@ -1,4 +1,4 @@
-# Generated on Tue 29 Mar 08:30:02 PDT 2022 with 733 records
+# Generated on Tue 29 Mar 16:30:02 PDT 2022 with 735 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -539,6 +539,8 @@
 0.0.0.0 resources.xg4ken.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 rtapi.abbi.io
+0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 s0.2mdn.net

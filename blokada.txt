@@ -1,4 +1,4 @@
-# Generated on Tue 5 Apr 16:30:02 PDT 2022 with 742 records
+# Generated on Wed 6 Apr 00:30:02 PDT 2022 with 743 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -632,6 +632,7 @@
 0.0.0.0 su.addthis.com
 0.0.0.0 supercell.helpshift.com
 0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 survey.survicate.com
 0.0.0.0 sw88.go.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 s.yimg.com

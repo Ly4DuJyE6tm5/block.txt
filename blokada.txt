@@ -1,4 +1,4 @@
-# Generated on Mon 11 Apr 08:30:02 PDT 2022 with 744 records
+# Generated on Mon 11 Apr 16:30:02 PDT 2022 with 745 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -434,6 +434,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile.confsettings.com
 0.0.0.0 mobile.eum-appdynamics.com
+0.0.0.0 mobile-gw.spot.im
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 motorsport.amp.permutive.com
 0.0.0.0 mozilla.cloudflare-dns.com

@@ -1,4 +1,4 @@
-# Generated on Mon 11 Apr 16:30:02 PDT 2022 with 745 records
+# Generated on Tue 12 Apr 00:30:02 PDT 2022 with 746 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -338,6 +338,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googletagservices.com
 0.0.0.0 go-updater.brave.com
+0.0.0.0 grafana.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 grid.bidswitch.net

@@ -1,4 +1,4 @@
-# Generated on Wed 20 Apr 16:30:02 PDT 2022 with 746 records
+# Generated on Thu 21 Apr 00:30:02 PDT 2022 with 748 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -700,6 +700,7 @@
 0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 vm.tiktok.com
 0.0.0.0 vox.amp.permutive.com
+0.0.0.0 v.redd.it
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 w3.cdn.anvato.net
@@ -734,6 +735,7 @@
 0.0.0.0 www.npttech.com
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.pornhub.com
+0.0.0.0 www.reddit.com
 0.0.0.0 www.stack-sonar.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.summerhamster.com

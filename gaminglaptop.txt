@@ -15,7 +15,6 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.heapanalytics.com
-0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 curben.gitlab.io
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 easylist.to

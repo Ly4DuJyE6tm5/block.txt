@@ -1,7 +1,8 @@
-# Generated on Wed 20 Apr 20:11:15 PDT 2022 with 37 records
+# Generated on Thu 21 Apr 00:15:02 PDT 2022 with 38 records
 0.0.0.0 activity.windows.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.gameanalytics.com
+0.0.0.0 assets.activity.windows.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com

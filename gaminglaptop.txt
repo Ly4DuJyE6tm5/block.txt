@@ -1,4 +1,4 @@
-# Generated on Wed 20 Apr 20:01:37 PDT 2022 with 42 records
+# Generated on Wed 20 Apr 20:03:23 PDT 2022 with 42 records
 0.0.0.0 activity.windows.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.gameanalytics.com
@@ -15,6 +15,7 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 curben.gitlab.io
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 easylist.to

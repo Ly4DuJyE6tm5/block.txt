@@ -1,4 +1,4 @@
-# Generated on Wed 20 Apr 20:03:23 PDT 2022 with 42 records
+# Generated on Wed 20 Apr 20:08:42 PDT 2022 with 38 records
 0.0.0.0 activity.windows.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.gameanalytics.com
@@ -7,10 +7,6 @@
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons5.gvt3.com
-0.0.0.0 beacons6.gvt3.com
-0.0.0.0 beacons7.gvt3.com
-0.0.0.0 beacons8.gvt3.com
-0.0.0.0 beacons9.gvt3.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 cdn.cookielaw.org

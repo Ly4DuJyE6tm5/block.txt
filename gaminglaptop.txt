@@ -1,4 +1,4 @@
-# Generated on Wed 20 Apr 19:46:27 PDT 2022 with 39 records
+# Generated on Wed 20 Apr 19:50:21 PDT 2022 with 39 records
 0.0.0.0 activity.windows.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.gameanalytics.com

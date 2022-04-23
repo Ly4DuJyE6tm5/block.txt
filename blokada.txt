@@ -1,4 +1,4 @@
-# Generated on Sat 23 Apr 08:30:02 PDT 2022 with 749 records
+# Generated on Sat 23 Apr 16:30:02 PDT 2022 with 751 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -301,6 +301,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 exceptions.mobile.yahoo.com
 0.0.0.0 experience.tinypass.com
+0.0.0.0 external-preview.redd.it
 0.0.0.0 e.zg-api.com
 0.0.0.0 facebook.com
 0.0.0.0 fastlane-adv.rubiconproject.com
@@ -621,6 +622,7 @@
 0.0.0.0 static.extremetech.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.klaviyo.com
+0.0.0.0 static.narrativ.com
 0.0.0.0 static.pcmag.com
 0.0.0.0 static.scroll.com
 0.0.0.0 staticw2.yotpo.com

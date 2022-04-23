@@ -1,4 +1,4 @@
-# Generated on Fri 22 Apr 16:15:02 PDT 2022 with 38 records
+# Generated on Sat 23 Apr 00:15:02 PDT 2022 with 49 records
 0.0.0.0 activity.windows.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.gameanalytics.com
@@ -10,30 +10,41 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
+0.0.0.0 btlr.sharethrough.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 curben.gitlab.io
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 easylist.to
+0.0.0.0 eb2.3lift.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 forwrdnow.com
 0.0.0.0 genuine.adobe.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 gov.aniview.com
+0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 heapanalytics.com
+0.0.0.0 htlb.casalemedia.com
+0.0.0.0 id5-sync.com
+0.0.0.0 image8.pubmatic.com
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 match.adsrvr.org
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nvda.d2.sc.omtrdc.net
 0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 o.ss2.us
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 sdk.qikify.com
 0.0.0.0 s.ss2.us
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.warthunder.ru
 0.0.0.0 submit.backtrace.io
 0.0.0.0 telemetry-in.battle.net
+0.0.0.0 tlx.3lift.com
 0.0.0.0 usb.hextom.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com

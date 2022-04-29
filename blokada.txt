@@ -1,4 +1,4 @@
-# Generated on Fri 29 Apr 08:30:02 PDT 2022 with 753 records
+# Generated on Fri 29 Apr 16:30:02 PDT 2022 with 755 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -424,6 +424,7 @@
 0.0.0.0 mdm.oneplus.net
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 metric-api.newrelic.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 m.facebook.com
 0.0.0.0 midas.gtimg.cn
@@ -668,6 +669,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 theenthusiastnetwork-ash.gscontxt.net
 0.0.0.0 thehill-d.openx.net
+0.0.0.0 thirdwx.qlogo.cn
 0.0.0.0 thrtle.com
 0.0.0.0 thumbs2.redgifs.com
 0.0.0.0 time.xtracloud.net

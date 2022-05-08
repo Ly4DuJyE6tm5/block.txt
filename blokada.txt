@@ -1,4 +1,4 @@
-# Generated on Sun 8 May 08:30:02 PDT 2022 with 755 records
+# Generated on Sun 8 May 16:30:02 PDT 2022 with 757 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -376,6 +376,7 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 insights.algolia.io
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
@@ -711,6 +712,7 @@
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 w3.cdn.anvato.net
+0.0.0.0 w3.mp.lura.live
 0.0.0.0 wd.adcolony.com
 0.0.0.0 webcontentassessor.global.ssl.fastly.net
 0.0.0.0 web.facebook.com

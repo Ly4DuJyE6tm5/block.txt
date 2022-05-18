@@ -1,4 +1,4 @@
-# Generated on Wed 18 May 08:30:02 PDT 2022 with 758 records
+# Generated on Wed 18 May 16:30:02 PDT 2022 with 759 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -697,6 +697,7 @@
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 u.openx.net
 0.0.0.0 usasync01.admantx.com
+0.0.0.0 us.data3.mobile.pendo.io
 0.0.0.0 us.device3.mobile.pendo.io
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 use.typekit.net

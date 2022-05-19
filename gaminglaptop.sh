@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-eval $(ssh-agent -s)
+eval $(ssh-agent -s) &
 
 cd /home/pi/scripts/block.txt
 
@@ -13,9 +13,8 @@ sqlite3 /etc/pihole/pihole-FTL.db 'select domain, COUNT (*) from queries where s
 sort /tmp/gaminglaptop.tmp | uniq > /tmp/gaminglaptop.txt
 echo "# Generated on" $(date) "with" $(wc -l /tmp/gaminglaptop.txt | awk '{print $1}') "records" > ./gaminglaptop.txt
 cat /tmp/gaminglaptop.txt | awk '{print "0.0.0.0 " $1}' >> ./gaminglaptop.txt
-rm /tmp/gaminglaptop.tmp
-git diff
-sleep 10
+rm /tmp/gaminglaptop.tmp &
+# git diff; sleep 10
 git add ./gaminglaptop.txt
 git commit -m "Generated $(date)"
-git push
+git push 

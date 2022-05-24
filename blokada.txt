@@ -1,4 +1,4 @@
-# Generated on Tue 24 May 08:30:02 PDT 2022 with 762 records
+# Generated on Tue 24 May 16:30:02 PDT 2022 with 763 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -577,6 +577,7 @@
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 sc-static.net
 0.0.0.0 sdc.cnn.com
+0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.privacy-center.org

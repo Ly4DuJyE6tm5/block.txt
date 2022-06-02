@@ -1,4 +1,4 @@
-# Generated on Wed 1 Jun 16:15:02 PDT 2022 with 417 records
+# Generated on Thu 2 Jun 00:15:02 PDT 2022 with 418 records
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 3dns-1.adobe.com
@@ -239,6 +239,7 @@
 0.0.0.0 media.licdn.com
 0.0.0.0 metrics.ally.com
 0.0.0.0 metrics.syf.com
+0.0.0.0 microsoftmscompoc.tt.omtrdc.net
 0.0.0.0 mirror.cedia.org.ec
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 mps.cnbc.com

@@ -1,4 +1,4 @@
-# Generated on Sun 5 Jun 16:30:02 PDT 2022 with 767 records
+# Generated on Mon 6 Jun 00:30:02 PDT 2022 with 768 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -225,6 +225,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 cloudapi.imrworldwide.com
+0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cmp.osano.com
 0.0.0.0 codepush.appcenter.ms

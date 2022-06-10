@@ -1,4 +1,4 @@
-# Generated on Fri 10 Jun 00:30:02 PDT 2022 with 773 records
+# Generated on Fri 10 Jun 08:30:03 PDT 2022 with 774 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -106,6 +106,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 appr.1plus.io
 0.0.0.0 apps.darken.eu
+0.0.0.0 aps.hearstnp.com
 0.0.0.0 a.pub.network
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com

@@ -1,4 +1,4 @@
-# Generated on Sat 11 Jun 16:30:03 PDT 2022 with 775 records
+# Generated on Sun 12 Jun 00:30:02 PDT 2022 with 776 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -120,6 +120,7 @@
 0.0.0.0 at.cbsi.com
 0.0.0.0 a.teads.tv
 0.0.0.0 ats.rlcdn.com
+0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 auth.split.io
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com

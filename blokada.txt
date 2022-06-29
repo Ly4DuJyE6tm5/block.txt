@@ -1,4 +1,4 @@
-# Generated on Wed 29 Jun 08:30:03 PDT 2022 with 777 records
+# Generated on Wed 29 Jun 16:30:02 PDT 2022 with 778 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -743,6 +743,7 @@
 0.0.0.0 widgets.tree.com
 0.0.0.0 ws.batch.com
 0.0.0.0 w.sharethis.com
+0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 www9.smartadserver.com

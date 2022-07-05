@@ -1,4 +1,4 @@
-# Generated on Tue 5 Jul 08:30:03 PDT 2022 with 779 records
+# Generated on Tue 5 Jul 16:30:03 PDT 2022 with 780 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -102,6 +102,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
+0.0.0.0 app.backinstock.org
 0.0.0.0 app-category-api.1plus.io
 0.0.0.0 app.datadoghq.com
 0.0.0.0 app.link

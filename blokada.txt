@@ -1,4 +1,4 @@
-# Generated on Wed 6 Jul 08:30:02 PDT 2022 with 780 records
+# Generated on Wed 6 Jul 16:30:03 PDT 2022 with 783 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -313,6 +313,7 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 exceptions.mobile.yahoo.com
+0.0.0.0 excess.duolingo.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 external-preview.redd.it
 0.0.0.0 e.zg-api.com
@@ -423,6 +424,7 @@
 0.0.0.0 lightning.cnn.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
+0.0.0.0 live.rezync.com
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lookaside.fbsbx.com
@@ -775,6 +777,7 @@
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 x.bidswitch.net
+0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.associates-amazon.com

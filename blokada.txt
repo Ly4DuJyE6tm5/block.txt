@@ -1,4 +1,4 @@
-# Generated on Wed 6 Jul 16:30:03 PDT 2022 with 783 records
+# Generated on Thu 7 Jul 00:30:03 PDT 2022 with 784 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -283,6 +283,7 @@
 0.0.0.0 data.logentries.com
 0.0.0.0 data.pendo.io
 0.0.0.0 dau-prod.launch.liveramp.com
+0.0.0.0 dealer.spotify.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.swid.switchadhub.com

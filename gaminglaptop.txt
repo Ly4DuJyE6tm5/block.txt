@@ -1,4 +1,4 @@
-# Generated on Tue 12 Jul 16:15:03 PDT 2022 with 421 records
+# Generated on Wed 13 Jul 00:15:03 PDT 2022 with 421 records
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 3dns-1.adobe.com

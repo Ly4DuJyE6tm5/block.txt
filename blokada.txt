@@ -1,4 +1,4 @@
-# Generated on Tue 19 Jul 16:30:03 PDT 2022 with 805 records
+# Generated on Wed 20 Jul 00:30:03 PDT 2022 with 807 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -71,6 +71,7 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.supplyframe.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 androidpolice.disqus.com
 0.0.0.0 a.omappapi.com
@@ -660,6 +661,7 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.affiliatly.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net

@@ -1,4 +1,4 @@
-# Generated on Tue 19 Jul 16:15:03 PDT 2022 with 422 records
+# Generated on Wed 20 Jul 00:15:02 PDT 2022 with 426 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -286,6 +286,7 @@
 0.0.0.0 practivate.adobe.ntp
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prod.adobegenuine.com
+0.0.0.0 prod-telemetry.paradox-interactive.com
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 quantcast.mgr.consensu.org
@@ -307,6 +308,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.qikify.com
 0.0.0.0 sdks.automizely-analytics.com
 0.0.0.0 secure-assets.rubiconproject.com
@@ -364,6 +366,7 @@
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 target.chase.com
 0.0.0.0 t.channeladvisor.com
+0.0.0.0 teams-events-data.trafficmanager.net
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 tlx.3lift.com
@@ -385,6 +388,7 @@
 0.0.0.0 use.typekit.net
 0.0.0.0 va.v.liveperson.net
 0.0.0.0 v.shopify.com
+0.0.0.0 windows.msn.cn
 0.0.0.0 wip1.adobe.com
 0.0.0.0 wip2.adobe.com
 0.0.0.0 wip3.adobe.com

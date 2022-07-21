@@ -1,4 +1,4 @@
-# Generated on Wed 20 Jul 16:15:02 PDT 2022 with 426 records
+# Generated on Thu 21 Jul 00:15:03 PDT 2022 with 430 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -50,6 +50,7 @@
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.stickyadstv.com
 0.0.0.0 akamai.tiqcdn.com
 0.0.0.0 a.klaviyo.com
 0.0.0.0 alb.reddit.com
@@ -284,7 +285,10 @@
 0.0.0.0 practivate.adobe.ipp
 0.0.0.0 practivate.adobe.newoa
 0.0.0.0 practivate.adobe.ntp
+0.0.0.0 prebid.media.net
 0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 primis-d.openx.net
 0.0.0.0 prod.adobegenuine.com
 0.0.0.0 prod-telemetry.paradox-interactive.com
 0.0.0.0 p.typekit.net

@@ -1,4 +1,4 @@
-# Generated on Fri 22 Jul 08:30:03 PDT 2022 with 808 records
+# Generated on Fri 22 Jul 16:30:03 PDT 2022 with 808 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com

@@ -1,4 +1,4 @@
-# Generated on Mon 25 Jul 16:15:02 PDT 2022 with 430 records
+# Generated on Tue 26 Jul 00:15:02 PDT 2022 with 433 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -271,6 +271,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.alliance-ecommerce.in
+0.0.0.0 pbs.twimg.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 philipselectronicsne.tt.omtrdc.net
 0.0.0.0 pixel.adsafeprotected.com
@@ -300,6 +301,7 @@
 0.0.0.0 rei-mcsp.demdex.net
 0.0.0.0 resources.xg4ken.com
 0.0.0.0 reveal.clearbit.com
+0.0.0.0 river.data.ea.com
 0.0.0.0 r.lr-hv-in.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtlimages.apple.com
@@ -385,6 +387,7 @@
 0.0.0.0 tracking.acs529.com
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 tr.snapchat.com
+0.0.0.0 twitter.com
 0.0.0.0 unagi.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 ups.analytics.yahoo.com

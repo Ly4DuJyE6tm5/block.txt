@@ -1,4 +1,4 @@
-# Generated on Sun 31 Jul 00:30:03 PDT 2022 with 810 records
+# Generated on Sun 31 Jul 08:30:03 PDT 2022 with 811 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -394,6 +394,7 @@
 0.0.0.0 ibt-d.openx.net
 0.0.0.0 ic3.events.data.microsoft.com
 0.0.0.0 i.clean.gg
+0.0.0.0 identity.mparticle.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 i.instagram.com
 0.0.0.0 image01.oneplus.net

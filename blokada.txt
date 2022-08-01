@@ -1,4 +1,4 @@
-# Generated on Sun 31 Jul 16:30:03 PDT 2022 with 811 records
+# Generated on Mon 1 Aug 00:30:03 PDT 2022 with 813 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -144,6 +144,7 @@
 0.0.0.0 bbstatic.pcmag.com
 0.0.0.0 b-code.liadm.com
 0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.krxd.net
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons.gcp.gvt2.com
@@ -544,6 +545,7 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pix.pub

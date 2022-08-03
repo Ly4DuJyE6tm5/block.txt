@@ -1,4 +1,4 @@
-# Generated on Tue 2 Aug 16:30:03 PDT 2022 with 813 records
+# Generated on Wed 3 Aug 00:30:03 PDT 2022 with 815 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -30,6 +30,7 @@
 0.0.0.0 adlog.flurry.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adthrive.com
+0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.blogherads.com
 0.0.0.0 adscfg.togothermany.cn
 0.0.0.0 adscfg.uqualities.com
@@ -200,6 +201,7 @@
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cdn.imhd.io
 0.0.0.0 cdn.insurads.com
 0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.iubenda.com

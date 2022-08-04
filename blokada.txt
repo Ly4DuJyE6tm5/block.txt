@@ -1,4 +1,4 @@
-# Generated on Wed 3 Aug 16:30:04 PDT 2022 with 815 records
+# Generated on Thu 4 Aug 00:30:03 PDT 2022 with 816 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -689,6 +689,7 @@
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastseat.com
 0.0.0.0 stun.l.google.com
+0.0.0.0 stun.syncthing.net
 0.0.0.0 su.addthis.com
 0.0.0.0 supercell.helpshift.com
 0.0.0.0 survey.g.doubleclick.net

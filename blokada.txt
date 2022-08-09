@@ -1,4 +1,4 @@
-# Generated on Mon 8 Aug 16:30:03 PDT 2022 with 817 records
+# Generated on Tue 9 Aug 00:30:03 PDT 2022 with 819 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -393,6 +393,7 @@
 0.0.0.0 htlbid.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ibt-d.openx.net
@@ -557,6 +558,7 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 pmc.amp.permutive.com
+0.0.0.0 pmc-com.videoplayerhub.com
 0.0.0.0 powerad.ai
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre.ads.justpremium.com

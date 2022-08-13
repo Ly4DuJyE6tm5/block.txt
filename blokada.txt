@@ -1,4 +1,4 @@
-# Generated on Sat 13 Aug 00:30:03 PDT 2022 with 820 records
+# Generated on Sat 13 Aug 08:30:03 PDT 2022 with 823 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -243,6 +243,7 @@
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 charlesschwab.sc.omtrdc.net
 0.0.0.0 chat.signal.org
+0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 cio.hired.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 clientstream.launchdarkly.com
@@ -405,6 +406,7 @@
 0.0.0.0 i.instagram.com
 0.0.0.0 image01.oneplus.net
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 image8.pubmatic.com
 0.0.0.0 img.revcontent.com
 0.0.0.0 imgur.ccgateway.net
 0.0.0.0 improving.duckduckgo.com
@@ -742,6 +744,7 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 triggeredmail.appspot.com
+0.0.0.0 trinitymedia.ai
 0.0.0.0 trinity.platform.intuit.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.vidible.tv

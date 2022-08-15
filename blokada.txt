@@ -1,4 +1,4 @@
-# Generated on Sun 14 Aug 16:30:03 PDT 2022 with 823 records
+# Generated on Mon 15 Aug 00:30:04 PDT 2022 with 824 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -717,6 +717,7 @@
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
+0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.tiqcdn.com

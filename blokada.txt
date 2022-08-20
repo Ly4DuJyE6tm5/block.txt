@@ -1,4 +1,4 @@
-# Generated on Sat 20 Aug 08:30:03 PDT 2022 with 826 records
+# Generated on Sat 20 Aug 16:30:03 PDT 2022 with 827 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -429,6 +429,7 @@
 0.0.0.0 it.shoplocal.com
 0.0.0.0 itunes.apple.com
 0.0.0.0 i.viafoura.co
+0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 jp.f.gm.mob.com
 0.0.0.0 js.adsrvr.org

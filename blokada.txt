@@ -1,4 +1,4 @@
-# Generated on Sun 21 Aug 08:30:04 PDT 2022 with 827 records
+# Generated on Sun 21 Aug 16:30:03 PDT 2022 with 828 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -468,6 +468,7 @@
 0.0.0.0 matomo.darken.eu
 0.0.0.0 mb9eo-nkrlx.ads.tremorhub.com
 0.0.0.0 mb.moatads.com
+0.0.0.0 md-a-s.apptimize.com
 0.0.0.0 mdm.oneplus.net
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 meter-svc.nytimes.com

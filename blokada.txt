@@ -1,4 +1,4 @@
-# Generated on Tue 23 Aug 16:30:03 PDT 2022 with 828 records
+# Generated on Wed 24 Aug 00:30:03 PDT 2022 with 829 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -323,6 +323,7 @@
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 edge.quantserve.com
+0.0.0.0 edigitalsurvey.com
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tawk.to
 0.0.0.0 engine.adzerk.net

@@ -1,4 +1,4 @@
-# Generated on Mon 29 Aug 00:30:04 PDT 2022 with 829 records
+# Generated on Mon 29 Aug 08:30:04 PDT 2022 with 830 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -422,6 +422,7 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insights.algolia.io
 0.0.0.0 insights-collector.newrelic.com
+0.0.0.0 insights.zeustechnology.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
 0.0.0.0 intldlgs.qq.com

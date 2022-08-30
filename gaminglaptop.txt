@@ -1,4 +1,4 @@
-# Generated on Mon 29 Aug 16:15:03 PDT 2022 with 437 records
+# Generated on Tue 30 Aug 00:15:03 PDT 2022 with 438 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -329,6 +329,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 service.force.com
+0.0.0.0 setup.rbxcdn.qq.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 six.cdn-net.com

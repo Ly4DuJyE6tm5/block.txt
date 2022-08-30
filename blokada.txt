@@ -1,4 +1,4 @@
-# Generated on Tue 30 Aug 00:30:03 PDT 2022 with 831 records
+# Generated on Tue 30 Aug 08:30:03 PDT 2022 with 833 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -709,6 +709,7 @@
 0.0.0.0 s.yieldmo.com
 0.0.0.0 s.yimg.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 sync.intentiq.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.serverbid.com
 0.0.0.0 sync-tm.everesttech.net
@@ -764,6 +765,7 @@
 0.0.0.0 unagi.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 u.openx.net
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 us.data3.mobile.pendo.io
 0.0.0.0 us.device3.mobile.pendo.io

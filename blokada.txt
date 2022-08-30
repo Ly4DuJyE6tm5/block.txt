@@ -1,4 +1,4 @@
-# Generated on Mon 29 Aug 16:30:03 PDT 2022 with 830 records
+# Generated on Tue 30 Aug 00:30:03 PDT 2022 with 831 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -727,6 +727,7 @@
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.remixd.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 tag.wknd.ai
 0.0.0.0 t.appsflyer.com
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 t.channeladvisor.com

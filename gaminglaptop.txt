@@ -1,4 +1,4 @@
-# Generated on Fri 2 Sep 16:15:03 PDT 2022 with 438 records
+# Generated on Sat 3 Sep 00:15:03 PDT 2022 with 439 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -307,6 +307,7 @@
 0.0.0.0 r.lr-hv-in.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtlimages.apple.com
+0.0.0.0 rum18.perf.linkedin.com
 0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s2.go-mpulse.net

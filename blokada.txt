@@ -1,4 +1,4 @@
-# Generated on Sat 3 Sep 16:30:03 PDT 2022 with 839 records
+# Generated on Sun 4 Sep 00:30:03 PDT 2022 with 840 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -256,6 +256,7 @@
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector-pxhyx10rg3.px-cloud.net
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 colossusssp.com
 0.0.0.0 combine.urbanairship.com

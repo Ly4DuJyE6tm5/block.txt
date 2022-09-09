@@ -1,4 +1,4 @@
-# Generated on Thu 8 Sep 16:30:03 PDT 2022 with 841 records
+# Generated on Fri 9 Sep 00:30:04 PDT 2022 with 842 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -783,6 +783,7 @@
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 vendorlist.consensu.org
+0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid.springserve.com

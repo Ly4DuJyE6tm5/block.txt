@@ -1,4 +1,4 @@
-# Generated on Fri 9 Sep 16:30:03 PDT 2022 with 842 records
+# Generated on Sat 10 Sep 00:30:03 PDT 2022 with 843 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -224,6 +224,7 @@
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-settings.segment.com
+0.0.0.0 cdn.sophi.io
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.switchadhub.com
 0.0.0.0 cdn.syndication.twimg.com

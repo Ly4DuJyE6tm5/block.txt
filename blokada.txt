@@ -1,4 +1,4 @@
-# Generated on Thu 15 Sep 16:30:04 PDT 2022 with 843 records
+# Generated on Fri 16 Sep 00:30:04 PDT 2022 with 845 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -288,6 +288,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 csync.loopme.me
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d1bl11pgu3tw3h.cloudfront.net
 0.0.0.0 d1lxz4vuik53pc.cloudfront.net
@@ -407,6 +408,7 @@
 0.0.0.0 ibt-d.openx.net
 0.0.0.0 ic3.events.data.microsoft.com
 0.0.0.0 i.clean.gg
+0.0.0.0 id5-sync.com
 0.0.0.0 identity.mparticle.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 i.instagram.com

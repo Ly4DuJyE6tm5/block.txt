@@ -1,4 +1,4 @@
-# Generated on Mon 19 Sep 16:30:04 PDT 2022 with 845 records
+# Generated on Tue 20 Sep 00:30:03 PDT 2022 with 848 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -134,6 +134,7 @@
 0.0.0.0 at.cbsi.com
 0.0.0.0 a.teads.tv
 0.0.0.0 ats.rlcdn.com
+0.0.0.0 audience.zeustechnology.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 auth.split.io
 0.0.0.0 b2cdn.automatad.com
@@ -367,6 +368,7 @@
 0.0.0.0 ftp.fau.de
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 g.3gl.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 gateway.oneplus.net
@@ -604,6 +606,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 rcom.dynamicyield.com
 0.0.0.0 recirculation.spot.im
+0.0.0.0 recommendation-newsletter.wpdigital.net
 0.0.0.0 recreationalequipmen.tt.omtrdc.net
 0.0.0.0 recs.richrelevance.com
 0.0.0.0 referrer.disqus.com

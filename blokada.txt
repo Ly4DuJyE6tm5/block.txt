@@ -1,4 +1,4 @@
-# Generated on Thu 22 Sep 00:30:03 PDT 2022 with 848 records
+# Generated on Thu 22 Sep 08:30:03 PDT 2022 with 849 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -675,6 +675,7 @@
 0.0.0.0 smetrics.foxbusiness.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.motortrend.com
+0.0.0.0 snap.licdn.com
 0.0.0.0 s.ntv.io
 0.0.0.0 sofia.trustx.org
 0.0.0.0 sommelier.futurehybrid.tech

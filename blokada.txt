@@ -1,4 +1,4 @@
-# Generated on Sat 24 Sep 00:30:03 PDT 2022 with 850 records
+# Generated on Sat 24 Sep 08:30:04 PDT 2022 with 851 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -44,6 +44,7 @@
 0.0.0.0 ads.resetsrv.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 ads.trafficjunky.net

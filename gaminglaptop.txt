@@ -1,4 +1,4 @@
-# Generated on Sun 25 Sep 16:15:03 PDT 2022 with 439 records
+# Generated on Mon 26 Sep 00:15:03 PDT 2022 with 441 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -58,6 +58,7 @@
 0.0.0.0 ally.tt.omtrdc.net
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 analytics.chase.com
+0.0.0.0 analyticsnew.overwolf.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.tiktok.com
@@ -390,6 +391,7 @@
 0.0.0.0 tps10232.doubleverify.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tracking.acs529.com
+0.0.0.0 tracking.overwolf.com
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 twitter.com

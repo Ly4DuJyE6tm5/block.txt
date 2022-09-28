@@ -1,4 +1,4 @@
-# Generated on Tue 27 Sep 16:15:03 PDT 2022 with 441 records
+# Generated on Wed 28 Sep 00:15:03 PDT 2022 with 444 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -164,6 +164,7 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebayinc.demdex.net
 0.0.0.0 edge.steam-dns.top.comcast.net
+0.0.0.0 embed.tawk.to
 0.0.0.0 ereg.adobe.com
 0.0.0.0 ereg.adobe.de
 0.0.0.0 ereg.wip1.adobe.com
@@ -282,6 +283,7 @@
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel-us-west.rubiconproject.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 practivate.adobe
 0.0.0.0 practivate.adobe.com
@@ -431,6 +433,7 @@
 0.0.0.0 www.linkedin.com
 0.0.0.0 www.mczbf.com
 0.0.0.0 www.npttech.com
+0.0.0.0 www.redditstatic.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.wip1.adobe.com
 0.0.0.0 www.wip2.adobe.com

@@ -1,4 +1,4 @@
-# Generated on Fri 30 Sep 00:30:04 PDT 2022 with 852 records
+# Generated on Fri 30 Sep 08:30:04 PDT 2022 with 854 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -321,6 +321,7 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 devices.carnivalmobile.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 d.impactradius-event.com
 0.0.0.0 disney.demdex.net
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dnn506yrbagrg.cloudfront.net
@@ -768,6 +769,7 @@
 0.0.0.0 track1.aniview.com
 0.0.0.0 track.aftrk3.com
 0.0.0.0 tracking.epicgames.com
+0.0.0.0 traxex.gannettdigital.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 trinitymedia.ai

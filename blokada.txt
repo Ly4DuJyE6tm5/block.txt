@@ -1,4 +1,4 @@
-# Generated on Fri 30 Sep 08:30:04 PDT 2022 with 854 records
+# Generated on Fri 30 Sep 16:30:03 PDT 2022 with 855 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -737,6 +737,7 @@
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.crsspxl.com
+0.0.0.0 tag.demandbase.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tags.bkrtx.com

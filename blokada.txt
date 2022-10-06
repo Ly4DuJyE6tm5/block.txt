@@ -1,4 +1,4 @@
-# Generated on Wed 5 Oct 16:30:04 PDT 2022 with 855 records
+# Generated on Thu 6 Oct 00:30:04 PDT 2022 with 856 records
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
@@ -107,6 +107,7 @@
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.userway.org
 0.0.0.0 api.vanilla.futurecdn.net
+0.0.0.0 api.vungle.com
 0.0.0.0 api.whatsapp.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 app.adjust.com

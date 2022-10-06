@@ -1,7 +1,11 @@
-# Generated on Thu 6 Oct 08:30:04 PDT 2022 with 856 records
+# Generated on Thu 6 Oct 16:30:04 PDT 2022 with 860 records
+0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
+0.0.0.0 1.datadog.pool.ntp.org
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
+0.0.0.0 2.datadog.pool.ntp.org
+0.0.0.0 3.datadog.pool.ntp.org
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk

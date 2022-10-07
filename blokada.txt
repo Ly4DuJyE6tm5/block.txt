@@ -1,4 +1,4 @@
-# Generated on Fri 7 Oct 08:30:04 PDT 2022 with 860 records
+# Generated on Fri 7 Oct 16:30:03 PDT 2022 with 861 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -533,6 +533,7 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 o17585.ingest.sentry.io
 0.0.0.0 o17675.ingest.sentry.io
+0.0.0.0 o248881.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o315582.ingest.sentry.io
 0.0.0.0 oaf-api.1plus.io

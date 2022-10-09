@@ -1,4 +1,4 @@
-# Generated on Sat 8 Oct 16:30:04 PDT 2022 with 861 records
+# Generated on Sun 9 Oct 00:30:04 PDT 2022 with 862 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -663,6 +663,7 @@
 0.0.0.0 sdk.split.io
 0.0.0.0 search-api.fie.future.net.uk
 0.0.0.0 search.spotxchange.com
+0.0.0.0 search.supplyframe.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure.quantserve.com

@@ -1,4 +1,4 @@
-# Generated on Sat 15 Oct 16:30:04 PDT 2022 with 864 records
+# Generated on Sun 16 Oct 00:30:04 PDT 2022 with 865 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -529,6 +529,7 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 ncp-gw-finance.media.yahoo.com
+0.0.0.0 network.bazaarvoice.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nintendoofamerica.tt.omtrdc.net
 0.0.0.0 notifications.viafoura.co

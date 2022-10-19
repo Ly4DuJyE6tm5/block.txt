@@ -1,4 +1,4 @@
-# Generated on Wed 19 Oct 00:30:04 PDT 2022 with 865 records
+# Generated on Wed 19 Oct 08:30:04 PDT 2022 with 870 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -155,6 +155,10 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.krxd.net
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
@@ -421,6 +425,7 @@
 0.0.0.0 i.clean.gg
 0.0.0.0 id5-sync.com
 0.0.0.0 identity.mparticle.com
+0.0.0.0 id.google.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 i.instagram.com
 0.0.0.0 image01.oneplus.net

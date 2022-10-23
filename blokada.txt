@@ -1,4 +1,4 @@
-# Generated on Sat 22 Oct 16:30:04 PDT 2022 with 872 records
+# Generated on Sun 23 Oct 00:30:04 PDT 2022 with 875 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -686,6 +686,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 served-by.pixfuture.com
 0.0.0.0 service.cmp.oath.com
+0.0.0.0 service.force.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 s.go-mpulse.net
@@ -760,6 +761,7 @@
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.catapultx.com
+0.0.0.0 tags.creditkarma.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.remixd.com
@@ -842,6 +844,7 @@
 0.0.0.0 www.avantlink.com
 0.0.0.0 www.bromite.org
 0.0.0.0 www.checkip.pw
+0.0.0.0 www.civicscience.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www-expeditionportal-com.disqus.com
 0.0.0.0 www.extremetech.com

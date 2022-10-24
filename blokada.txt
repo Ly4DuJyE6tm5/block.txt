@@ -1,4 +1,4 @@
-# Generated on Sun 23 Oct 16:30:04 PDT 2022 with 875 records
+# Generated on Mon 24 Oct 00:30:04 PDT 2022 with 876 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -845,6 +845,7 @@
 0.0.0.0 www.bromite.org
 0.0.0.0 www.checkip.pw
 0.0.0.0 www.civicscience.com
+0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www-expeditionportal-com.disqus.com
 0.0.0.0 www.extremetech.com

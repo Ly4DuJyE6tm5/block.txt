@@ -1,4 +1,4 @@
-# Generated on Mon 24 Oct 00:30:04 PDT 2022 with 876 records
+# Generated on Mon 24 Oct 08:30:04 PDT 2022 with 877 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -167,6 +167,7 @@
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 blokada.org
+0.0.0.0 bluetooth.1plus.io
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 brightcombid.marphezis.com
 0.0.0.0 browser.events.data.microsoft.com

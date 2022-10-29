@@ -1,4 +1,4 @@
-# Generated on Fri 28 Oct 16:30:04 PDT 2022 with 877 records
+# Generated on Sat 29 Oct 00:30:04 PDT 2022 with 878 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -682,6 +682,7 @@
 0.0.0.0 seg.ad.gt
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segment-data.zqtk.net
+0.0.0.0 segment.psg.nexstardigital.net
 0.0.0.0 sejs.moatads.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 sentry.io

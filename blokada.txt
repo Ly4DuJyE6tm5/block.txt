@@ -1,4 +1,4 @@
-# Generated on Wed 2 Nov 00:30:04 PDT 2022 with 880 records
+# Generated on Wed 2 Nov 08:30:04 PDT 2022 with 881 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -612,6 +612,7 @@
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 profile.localytics.com
+0.0.0.0 pro.ip-api.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net

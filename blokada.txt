@@ -1,4 +1,4 @@
-# Generated on Sat 5 Nov 08:30:04 PDT 2022 with 882 records
+# Generated on Sat 5 Nov 16:30:04 PDT 2022 with 884 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -485,6 +485,7 @@
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.rezync.com
 0.0.0.0 loader-cdn.azureedge.net
+0.0.0.0 logging.api.intuit.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lookaside.fbsbx.com
 0.0.0.0 lptag.liveperson.net
@@ -519,6 +520,7 @@
 0.0.0.0 mobile.eum-appdynamics.com
 0.0.0.0 mobile-gw.spot.im
 0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 motorsport.amp.permutive.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 mp.4dex.io

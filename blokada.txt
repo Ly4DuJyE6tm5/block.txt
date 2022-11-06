@@ -1,4 +1,4 @@
-# Generated on Sun 6 Nov 00:30:04 PDT 2022 with 885 records
+# Generated on Sun 6 Nov 08:30:05 PST 2022 with 888 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -454,7 +454,10 @@
 0.0.0.0 insights.zeustechnology.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+0.0.0.0 int.akisinn.info
+0.0.0.0 int.dewrain.site
 0.0.0.0 intldlgs.qq.com
+0.0.0.0 int.vaicore.site
 0.0.0.0 i.pinimg.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 it.shoplocal.com

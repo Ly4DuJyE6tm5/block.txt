@@ -1,4 +1,4 @@
-# Generated on Sat 5 Nov 16:30:04 PDT 2022 with 884 records
+# Generated on Sun 6 Nov 00:30:04 PDT 2022 with 885 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -293,6 +293,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.trustarc.com
+0.0.0.0 consumerinsights.api.intuit.com
 0.0.0.0 contentpersonalization.api.intuit.com
 0.0.0.0 context.bestbuy.com
 0.0.0.0 contextual.media.net

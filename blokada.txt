@@ -1,4 +1,4 @@
-# Generated on Sun 6 Nov 16:30:05 PST 2022 with 892 records
+# Generated on Mon 7 Nov 00:30:04 PST 2022 with 893 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -283,6 +283,7 @@
 0.0.0.0 config.emb-api.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.mobile.yahoo.com
+0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
 0.0.0.0 config.seedtag.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com

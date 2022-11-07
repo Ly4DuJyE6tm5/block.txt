@@ -1,4 +1,4 @@
-# Generated on Sun 6 Nov 08:30:05 PST 2022 with 888 records
+# Generated on Sun 6 Nov 16:30:05 PST 2022 with 892 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -455,7 +455,10 @@
 0.0.0.0 instagram.com
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
 0.0.0.0 int.akisinn.info
+0.0.0.0 int.akisinn.site
+0.0.0.0 int.dewrain.life
 0.0.0.0 int.dewrain.site
+0.0.0.0 int.dewrain.world
 0.0.0.0 intldlgs.qq.com
 0.0.0.0 int.vaicore.site
 0.0.0.0 i.pinimg.com
@@ -669,6 +672,7 @@
 0.0.0.0 script.4dex.io
 0.0.0.0 script.crazyegg.com
 0.0.0.0 scripts.mediavine.com
+0.0.0.0 scripts.simpleanalyticscdn.com
 0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 sc-static.net

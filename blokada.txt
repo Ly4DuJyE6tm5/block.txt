@@ -1,4 +1,4 @@
-# Generated on Thu 10 Nov 08:30:04 PST 2022 with 897 records
+# Generated on Thu 10 Nov 16:30:04 PST 2022 with 898 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -611,6 +611,7 @@
 0.0.0.0 pix.pub
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform.instagram.com
+0.0.0.0 platform.linkedin.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 pmc.amp.permutive.com

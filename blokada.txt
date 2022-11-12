@@ -1,4 +1,4 @@
-# Generated on Fri 11 Nov 08:30:04 PST 2022 with 898 records
+# Generated on Fri 11 Nov 16:30:04 PST 2022 with 901 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -6,6 +6,7 @@
 0.0.0.0 2712.content.swrve.com
 0.0.0.0 2.datadog.pool.ntp.org
 0.0.0.0 3.datadog.pool.ntp.org
+0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a1.api.bbc.co.uk
@@ -274,6 +275,7 @@
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-pxhyx10rg3.px-cloud.net
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 colossusssp.com
@@ -560,6 +562,7 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 o17585.ingest.sentry.io
 0.0.0.0 o17675.ingest.sentry.io
+0.0.0.0 o22381.ingest.sentry.io
 0.0.0.0 o248881.ingest.sentry.io
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o315582.ingest.sentry.io

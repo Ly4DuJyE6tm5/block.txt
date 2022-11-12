@@ -1,4 +1,4 @@
-# Generated on Sat 12 Nov 00:30:04 PST 2022 with 901 records
+# Generated on Sat 12 Nov 08:30:04 PST 2022 with 903 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -309,6 +309,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 cs.media.net
 0.0.0.0 csync.loopme.me
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d1bl11pgu3tw3h.cloudfront.net
@@ -512,6 +513,7 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 matomo.darken.eu
 0.0.0.0 mb9eo-nkrlx.ads.tremorhub.com
+0.0.0.0 mb9eo.publishers.tremorhub.com
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 md-a-s.apptimize.com

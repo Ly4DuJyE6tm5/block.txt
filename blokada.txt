@@ -1,4 +1,4 @@
-# Generated on Wed 16 Nov 16:30:04 PST 2022 with 906 records
+# Generated on Thu 17 Nov 00:30:04 PST 2022 with 907 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -574,6 +574,7 @@
 0.0.0.0 oauth.reddit.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odeaiqfw.micpn.com
+0.0.0.0 offcnt.intuit.com
 0.0.0.0 olcfg.1plus.io
 0.0.0.0 oms.dowjoneson.com
 0.0.0.0 oms.expedia.com

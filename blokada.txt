@@ -1,4 +1,4 @@
-# Generated on Fri 18 Nov 00:30:04 PST 2022 with 907 records
+# Generated on Fri 18 Nov 08:30:04 PST 2022 with 908 records
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 1.datadog.pool.ntp.org
@@ -664,6 +664,7 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 res-game-js.gamett.net
 0.0.0.0 resources.xg4ken.com
+0.0.0.0 router.oneplus.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rt.applovin.com

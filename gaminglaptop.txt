@@ -1,4 +1,4 @@
-# Generated on Fri 18 Nov 08:15:03 PST 2022 with 448 records
+# Generated on Fri 18 Nov 16:15:04 PST 2022 with 448 records
 0.0.0.0 01-crossout-cdnnow.cdn.gaijin.net
 0.0.0.0 100026788.collect.igodigital.com
 0.0.0.0 2542116.fls.doubleclick.net
